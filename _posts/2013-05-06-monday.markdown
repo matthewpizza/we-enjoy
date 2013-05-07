@@ -4,7 +4,7 @@ title: Monday, May 6, 2013
 date: 2013-05-06 18:55:51
 ---
 
-![Kids]({{ site.url }}/assets/kids.jpg)
+![Kids](../../../assets/kids.jpg)
 
 * [Legends Never Die by Caroline Rothstein](http://narrative.ly/keep-calm-and-carry-on/legends-never-die/)
 * [Exclusive: Tyler, the Creator Talks Mountain Dew Controversy: ‘It’s Not Gonna Change My Art in Any Way’](http://www.billboard.com/biz/articles/news/branding/1560544/exclusive-tyler-the-creator-talks-mountain-dew-controversy-its)
