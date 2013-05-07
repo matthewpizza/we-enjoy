@@ -17,7 +17,18 @@
 
 {{ content }}
 
-<div class="footer"></div>
+<div class="pagination">
+{% if paginator.previous_page %}
+<a href="/page{{ paginator.previous_page }}" class="previous">« The Future</a>
+{% else %}
+{% endif %}
+<span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+{% if paginator.next_page %}
+<a href="/page{{ paginator.next_page }}" class="next">The Past »</a>
+{% else %}
+{% endif %}
+</div>
+
 </div>
 </body>
 </html>
