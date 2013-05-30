@@ -4,7 +4,7 @@ title: Monday, May 13, 2013
 date: 2013-05-13 08:00:00
 ---
 
-![Cooper Union][/we-enjoy/assets/cooperunion.jpg]
+![Cooper Union](/we-enjoy/assets/cooperunion.jpg)
 
 * [How Cooper Union’s Endowment Failed in Its Mission](http://www.nytimes.com/2013/05/11/business/how-cooper-unions-endowment-failed-in-its-mission.html?pagewanted=all)
 * [Oh Papa’s Story](http://foundmyanimal.tumblr.com/post/50103445045/oh-papas-story)
