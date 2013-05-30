@@ -5,3 +5,4 @@ pygments: true
 server: false
 auto: false
 watch: false
+paginate: 7
