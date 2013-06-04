@@ -1,0 +1,14 @@
+---
+layout: post
+title: Tuesday, June 4, 2013
+date: 2013-06-04 08:00:00
+---
+
+![Beer Cave](/we-enjoy/assets/beercave.jpg)
+
+* [The End of the Beer Cave](http://urbanhonking.com/hotknives/2013/05/30/beercave/)
+* [What is Happenning in Istanbul?](http://defnesumanblogs.com/2013/06/01/what-is-happenning-in-istanbul/)
+* [Let me tell you a thing, about an amazing man named Patrick Stewart…](http://lemonsweetie.tumblr.com/post/51652237280/let-me-tell-you-a-thing-about-an-amazing-man)
+* [CSS: reset or normalize?](http://the-pastry-box-project.net/oli-studholme/2013-june-3/)
+* [“Complain about the way other people make software by making software.”](http://notes.torrez.org/2011/04/an-empathetic-plan.html)
+* [State of Transition](http://stuntbox.com/blog/2013/05/redesign/)
