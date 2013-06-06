@@ -1,0 +1,14 @@
+---
+layout: post
+title: Thursday, June 6, 2013
+date: 2013-06-06 08:00:00
+---
+
+![Tank Man](/we-enjoy/assets/tankman.jpg)
+
+* [More views of the Tiananmen Tank Man](http://kottke.org/12/06/more-views-of-the-tiananmen-tank-man)
+* [New Government Documents Show the Sean Parker Wedding Is the Perfect Parable for Silicon Valley Excess](http://m.theatlantic.com/technology/archive/13/06/new-government-documents-show-the-sean-parker-wedding-is-the-perfect-parable-for-silicon-valley-excess/276521/)
+* [Slash Purpose](http://slashpurpose.org/)
+* [A Personal API](http://x.naveen.com/post/51808692792/a-personal-api)
+* [On Not Seeing Stars](https://medium.com/l-a-stories/fc3f610aaced)
+* [Student science experiment finds plants won't grow near Wi-Fi router](http://www.mnn.com/health/healthy-spaces/blogs/student-science-experiment-finds-plants-wont-grow-near-wi-fi-router)
