@@ -1,0 +1,14 @@
+---
+layout: post
+title: Friday, June 7, 2013
+date: 2013-06-07 08:00:00
+---
+
+![Wheelchair Logo](/we-enjoy/assets/wheelchair_logo.jpg)
+
+* [Famous Isotype — wheelchair logo, disability logo — is revamped](http://www.printmag.com/logo-design/isotype-disability-logo/)
+* [#bloodycyclist, indeed](http://tinyfixbikegang.com/bloodycyclist-indeed/)
+* [NSA taps in to user data of Facebook, Apple, Google and others, secret files reveal](http://m.guardian.co.uk/world/2013/jun/06/us-tech-giants-nsa-data)
+* [Metadata matters: how phone records and obsolete laws harm privacy and the free press](http://www.theverge.com/2013/5/16/4336994/metadata-matters-how-phone-records-and-obsolete-laws-harm-privacy)
+* [The Space Between the Notes](http://jasonsantamaria.com/articles/the-space-between-the-notes)
+* [Git in my Subversion](http://danielbachhuber.com/2012/09/30/git-in-my-subversion/)
