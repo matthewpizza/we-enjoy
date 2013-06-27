@@ -1,0 +1,14 @@
+---
+layout: post
+title: Thursday, June 27, 2013
+date: 2013-04-27 08:00:00
+---
+
+![IBM](/we-enjoy/assets/ibm-ad.jpg)
+
+* [IBM Turns Its Ads Into Useful Urban Furniture](http://www.fastcocreate.com/1683133/ibm-turns-its-ads-into-useful-urban-furniture)
+* [Why do we love to build CMS from scratch?](http://gadgetopia.com/post/8670)
+* [Calling all Moleskine fetishists – you may yet get a share in Hemingway](http://m.guardian.co.uk/commentisfree/2013/mar/08/moleskine-fetishists-share-hemingway)
+* [An introduction to Siteleaf](http://destroytoday.com/blog/an-introduction-to-siteleaf/)
+* [Does Buzzfeed Know the Secret?](http://nymag.com/news/features/buzzfeed-2013-4/)
+* [New Healthcare.gov is Open, CMS-Free](http://developmentseed.org/blog/new-healthcare-gov-is-open-and-cms-free/)
