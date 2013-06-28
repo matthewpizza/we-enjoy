@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wednesday, June 26, 2013
-date: 2013-04-26 08:00:00
+date: 2013-06-26 08:00:00
 ---
 
 ![Miami](/we-enjoy/assets/miami.jpg)

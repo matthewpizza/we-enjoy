@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thursday, June 27, 2013
-date: 2013-04-27 08:00:00
+date: 2013-06-27 08:00:00
 ---
 
 ![IBM](/we-enjoy/assets/ibm-ad.jpg)

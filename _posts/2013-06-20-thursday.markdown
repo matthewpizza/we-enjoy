@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thursday, June 20, 2013
-date: 2013-04-20 08:00:00
+date: 2013-06-20 08:00:00
 ---
 
 ![Your Mother](/we-enjoy/assets/yourmother.jpg)
