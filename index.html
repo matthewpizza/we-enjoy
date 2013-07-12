@@ -4,7 +4,7 @@ title: We Enjoy
 ---
 <div id="home">
 <section>
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <article class="hentry">
 	<h2><a href=".{{ post.url }}">{{ post.date | date: "%A, %B %d, %Y"}}</a></h2>
 	{{ post.content }}
