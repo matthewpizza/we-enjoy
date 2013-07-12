@@ -5,3 +5,5 @@ pygments: true
 server: false
 auto: false
 watch: false
+paginate: 7
+paginate_path: "blog/page/:num"
