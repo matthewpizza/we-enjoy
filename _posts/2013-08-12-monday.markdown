@@ -1,0 +1,14 @@
+---
+layout: post
+title: Monday, August 12, 2013
+date: 2013-08-12 08:00:00
+---
+
+![Illustration by Matthew Hollister](/we-enjoy/assets/privacy-hollister.jpg)
+
+* [How the Government Killed a Secure E-mail Company](http://www.newyorker.com/online/blogs/elements/2013/08/the-government-versus-your-secrets.html)
+* [Google Chrome’s Insanely Open Password Security Strategy](http://gizmodo.com/google-chrome-s-insanely-open-password-security-strateg-1052344786)
+* [Hedgefox Buys Metayacht](https://medium.com/fords-sensorium/6e9e1a7578d1)
+* [The Lay of the Land](http://edgeca.se/the-lay-of-the-land/) 
+* [No shooting at protest? Police may block mobile devices via Apple](http://rt.com/news/apple-patent-transmission-block-408/)
+* [Hand-cranking Svpply](http://blog.pieratt.com/post/57522095919/hand-cranking-svpply)
