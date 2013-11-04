@@ -1,0 +1,14 @@
+---
+layout: post
+title: Monday, October 21, 2013
+date: 2013-10-21 08:00:00
+---
+
+https://vimeo.com/31802204
+
+* [NYC Marathon Visualization](http://www.grahaphics.com/NYC-Marathon-Visualization)
+* [Place-Making Tactics: Mural Painting in Brooklyn](http://www.wordsinspace.net/urban-media-archaeology/2013-fall/?p=138)
+* [More about scaling in iOS](http://www.quirksmode.org/blog/archives/2013/10/more_about_scal.html)
+* [Cops in chase that killed unarmed black couple will keep jobs](http://www.salon.com/2013/10/16/cops_who_riddled_unarmed_black_couple_with_bullets_will_keep_jobs/)
+* [Why cops don’t believe rape victims and how brain science can solve the problem.](http://www.slate.com/articles/news_and_politics/jurisprudence/2013/06/why_cops_don_t_believe_rape_victims_and_how_brain_science_can_solve_the.html)
+* [Android Fragmentation Report July 2013](http://opensignal.com/reports/fragmentation-2013/)

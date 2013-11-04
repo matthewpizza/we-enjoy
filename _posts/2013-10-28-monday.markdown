@@ -1,0 +1,14 @@
+---
+layout: post
+title: Monday, October 28, 2013
+date: 2013-10-28 08:00:00
+---
+
+![Glitch](/we-enjoy/assets/Interface-Glitch-.png)
+
+* [Datamoshing the Land of Ooo](http://rhizome.org/editorial/2013/apr/25/datamoshing-land-ooo-conversation-david-oreilly/)
+* [Lucida Grande “Retina-optimized” in OS X Mavericks](http://blog.justanotherfoundry.com/2013/10/lucida-grande-retina-optimized-in-os-x-mavericks/)
+* [TED talks are lying to you](http://www.salon.com/2013/10/13/ted_talks_are_lying_to_you/)
+* [A Statement From Shawn “JAY Z” Carter](http://lifeandtimes.com/a-statement-from-shawn-jay-z-carter)
+* [Thoughts and Observations Regarding This Week’s Apple Event Introducing the iPad Air and Retina iPad Mini](http://daringfireball.net/2013/10/this_weeks_ipad_event)
+* [BERG Cloud, Now Available For Everyone](http://bergcloud.com/2013/10/28/berg-cloud-now-available-for-everyone/)

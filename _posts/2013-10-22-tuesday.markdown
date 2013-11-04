@@ -1,0 +1,14 @@
+---
+layout: post
+title: Tuesday, October 22, 2013
+date: 2013-10-22 08:00:00
+---
+
+![People without JavaScript](/we-enjoy/assets/javascript.png)
+
+* [How many people are missing out on JavaScript enhancement?](http://digital.cabinetoffice.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/)
+* [Why I create for the web](http://blog.neave.com/post/64669185529/why-i-create-for-the-web)
+* [The Good Men of America](http://theaerogram.com/good-men-america/)
+* [Some things I’ve learned about LA from the police scanner](http://www.laobserved.com/intell/2013/10/what_i_have_learned_from_the_p.php)
+* [The Collapse of Black Wealth](http://prospect.org/article/rising-tide-2)
+* [God’s Number is 20](http://www.cube20.org/)

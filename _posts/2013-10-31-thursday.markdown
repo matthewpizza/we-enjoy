@@ -1,0 +1,15 @@
+---
+layout: post
+title: Thursday, October 31, 2013
+date: 2013-10-31 08:00:00
+---
+
+![myst](/we-enjoy/assets/myst.jpg)
+
+* [Looking back on the game ‘Myst’ on its 20th anniversary](http://www.grantland.com/story/_/id/9713372/looking-back-game-myst-20th-anniversary)
+* [On journalism and learning to code (again)](http://veltman.tumblr.com/post/64900530026/on-journalism-and-learning-to-code-again)
+* [ESPN’s digital audience is now mostly mobile](http://www.niemanlab.org/2013/10/espns-digital-audience-is-now-mostly-mobile/)
+* [It’s Called Jekyll, and It Works](http://developmentseed.org/blog/2013/10/24/its-called-jekyll/)
+* [ssl added and removed here :-)](http://thusly.tumblr.com/post/65534986694/ssl-added-and-removed-here)
+* [Steve Wozniak Meets DMX](http://www.tmz.com/videos/0_ndtvi7ad/)
+* [Everybody on Earth Is Feeling the Exact Same Thing as You: Notes on Relationships in the Twenty-First Century](http://032c.com/2013/everybody-on-earth-is-feeling-the-exact-same-thing-as-you-notes-on-relationships-in-the-twenty-first-century/)
