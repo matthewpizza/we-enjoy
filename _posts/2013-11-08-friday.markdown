@@ -1,0 +1,14 @@
+---
+layout: post
+title: Friday, November 8, 2013
+date: 2013-11-08 08:00:00
+---
+
+![Gardens](/we-enjoy/assets/gardens.jpg)
+
+* [Love in the Gardens](http://www.nybooks.com/articles/archives/2013/nov/07/love-boboli-borghese-gardens/)
+* [Sharecropping in the Cloud](http://jacobinmag.com/2013/11/sharecropping-in-the-cloud/)
+* [Scanning Center Fire — Please Help Rebuild](https://blog.archive.org/2013/11/06/scanning-center-fire-please-help-rebuild/)
+* [If All The Ice Melted](http://ngm.nationalgeographic.com/2013/09/rising-seas/if-ice-melted-map)
+* [Americans Who Have Stereotypical Ideas About Race And Violence Are More Likely to Own Guns](http://blogs.smithsonianmag.com/smartnews/2013/11/americans-who-have-stereotypical-ideas-about-race-and-violence-are-more-likely-to-own-guns/)
+* [Icon fonts, unicode ranges, and IE8’s compatibility mode](http://adactio.com/journal/6555/)
