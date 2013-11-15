@@ -14,6 +14,7 @@ if [ -f $post_file ]
 	then
 	# yup
 	echo "$post_file exists"
+	subl $post_file
 	exit
 else
 	# nope, create file
@@ -33,3 +34,5 @@ date: $date
 
 ![](/we-enjoy/assets/)
 EOF
+
+subl $post_file
