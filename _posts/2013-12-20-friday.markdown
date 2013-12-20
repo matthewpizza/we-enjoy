@@ -1,0 +1,15 @@
+---
+layout: post
+title: Friday, December 20, 2013
+date: 2013-12-20 09:42:01
+---
+
+![Animated SVG](/we-enjoy/assets/animated-svg-ff.svg)
+
+* [Animated SVGs: Custom easing and timing](http://oak.is/thinking/animated-svgs/)
+* [Conservatives’ new enemy: Bikes](http://www.bostonglobe.com/ideas/2013/12/15/conservatives-new-enemy-bikes/NoLMjnocHg28jZ4hw3F4oI/story.html)
+* [I Adopted a Dog in His Final Hours on Death Row](http://www.dogster.com/lifestyle/dog-adoption-death-row-best-decision-ever)
+* [How to Approach a Responsive Design](http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/)
+* [The School Shootings You Didn’t Hear About—One Every Two Weeks Since Newtown](http://www.thedailybeast.com/articles/2013/12/12/the-school-shootings-you-didn-t-hear-about-one-every-two-weeks-since-newtown.html)
+* [How a Developer Learned Not to Be Racist and Sexist](http://blog.epicodus.com/post/69888087443/how-a-developer-learned-not-to-be-racist-and-sexist)
+* [I was threatened with violence and rape and begged a bus driver to protect me from my harasser. Instead, he laughed and shook the man's hand.](http://theremina.tumblr.com/post/70314555185/i-was-threatened-with-violence-and-rape-and-begged-a)
