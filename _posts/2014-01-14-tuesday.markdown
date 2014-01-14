@@ -1,0 +1,14 @@
+---
+layout: post
+title: Tuesday, January 14, 2014
+date: 2014-01-14 14:09:40
+---
+
+![animated gif](/we-enjoy/assets/louisck.gif)
+
+* [Movie → Animated Gif on the command line](http://blog.markwunsch.com/post/16982184688/movie-to-animated-gif)
+* [Vertical align anything with just 3 lines of CSS](http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/)
+* [Social Media Is a Conversation, Not a Press Release](https://medium.com/technology-and-society/4d811b45840d)
+* [The Humble Corner Store](https://medium.com/the-magazine/fa2f267dee0d)
+* [Wages For Facebook](http://wagesforfacebook.com/)
+* [Florida man shot dead in cinema texting row](http://www.bbc.co.uk/news/world-us-canada-25726591)
