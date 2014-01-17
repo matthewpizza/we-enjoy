@@ -2,23 +2,26 @@
 layout: default
 title: We Enjoy
 ---
-<div id="home">
-<section>
-{% for post in paginator.posts %}
-<article class="hentry">
-	<h2><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%A, %B %d, %Y"}}</a></h2>
-	{{ post.content }}
-</article>
-{% endfor %}
-</section>
 
+<div id="main">
 
-<div class="navigation">
-	{% if paginator.previous_page %}
-		<a href="{{ site.url }}/page/{{ paginator.previous_page }}/">&#171; The Future</a>&nbsp;&nbsp;
-	{% endif %}
-	<span>{{ paginator.page }} of {{ paginator.total_pages }}</span>
-	{% if paginator.next_page %}
-		&nbsp;&nbsp;<a href="{{ site.url }}/page/{{ paginator.next_page }}/">The Past &#187;</a>&nbsp;&nbsp;&nbsp;
-	{% endif %}
+	<section>
+	{% for post in paginator.posts %}
+		<article class="hentry">
+			<h2><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%A, %B %d, %Y"}}</a></h2>
+			{{ post.content }}
+		</article>
+	{% endfor %}
+	</section>
+
+	<nav class="navigation">
+		{% if paginator.previous_page %}
+			<a href="{{ site.url }}/page/{{ paginator.previous_page }}/">&#171; The Future</a>&nbsp;&nbsp;
+		{% endif %}
+		<span>{{ paginator.page }} of {{ paginator.total_pages }}</span>
+		{% if paginator.next_page %}
+			&nbsp;&nbsp;<a href="{{ site.url }}/page/{{ paginator.next_page }}/">The Past &#187;</a>&nbsp;&nbsp;&nbsp;
+		{% endif %}
+	</nav>
+
 </div>
