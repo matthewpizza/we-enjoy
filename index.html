@@ -15,10 +15,10 @@ title: We Enjoy
 
 <div class="navigation">
 	{% if paginator.previous_page %}
-		<a href="/we-enjoy/page/{{ paginator.previous_page }}/">&#171; The Future</a>&nbsp;&nbsp;
+		<a href="{{ site.url }}/page/{{ paginator.previous_page }}/">&#171; The Future</a>&nbsp;&nbsp;
 	{% endif %}
 	<span>{{ paginator.page }} of {{ paginator.total_pages }}</span>
 	{% if paginator.next_page %}
-		&nbsp;&nbsp;<a href="/we-enjoy/page/{{ paginator.next_page }}/">The Past &#187;</a>&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;<a href="{{ site.url }}/page/{{ paginator.next_page }}/">The Past &#187;</a>&nbsp;&nbsp;&nbsp;
 	{% endif %}
 </div>
