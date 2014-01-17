@@ -4,7 +4,7 @@ title: Monday, October 14, 2013
 date: 2013-10-14 08:00:00
 ---
 
-![Gravity](/we-enjoy/assets/gravityreview.jpg)
+![Gravity]({{ site.url }}/assets/gravityreview.jpg)
 
 * [Gravity](http://urbanhonking.com/isawthat/2013/10/12/gravity/)
 * [Underselling the Overview: Gravity and Lowercase-’s’ Space](http://www.grantland.com/blog/hollywood-prospectus/post/_/id/89236/underselling-the-overview-gravity-and-lowercase-s-space)

@@ -4,7 +4,7 @@ title: Tuesday, August 20, 2013
 date: 2013-08-20 08:00:00
 ---
 
-![Voyager](/we-enjoy/assets/voyager.jpg)
+![Voyager]({{ site.url }}/assets/voyager.jpg)
 
 * [Has Voyager 1 Left The Solar System?](http://www.npr.org/blogs/thetwo-way/2013/08/19/212704340/has-voyager-1-left-the-solar-system)
 * [UK intel officials enter Guardian offices, destroy hard drives with Snowden docs](http://boingboing.net/2013/08/19/uk-intel-officials-raid-guardi.html)

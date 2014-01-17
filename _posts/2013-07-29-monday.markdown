@@ -4,7 +4,7 @@ title: Monday, July 29, 2013
 date: 2013-07-29 08:00:00
 ---
 
-![Norm the pug](/we-enjoy/assets/norm.jpg)
+![Norm the pug]({{ site.url }}/assets/norm.jpg)
 
 * [The Most Photogenic Pug Ever](http://www.sadanduseless.com/2013/07/the-most-photogenic-pug-ever/)
 * [When we said ‘boil the ocean’ we didn’t mean like that](https://medium.com/p/36abfbd2616d)

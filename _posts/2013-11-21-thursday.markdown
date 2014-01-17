@@ -4,7 +4,7 @@ title: Thursday, November 21, 2013
 date: 2013-11-21 10:25:00
 ---
 
-![World’s End](/we-enjoy/assets/worlds_end.jpg)
+![World’s End]({{ site.url }}/assets/worlds_end.jpg)
 
 * [Film Crit Hulk Smash: ALCOHOL, WITHNAIL AND GARY KING [Lower Caps Bruce Banner Edition]](http://www.edgarwrighthere.com/2013/10/11/film-crit-hulk-smash-alcohol-withnail-and-gary-king-lower-caps-bruce-banner-edition/)
 * [Pairings By Profession in Notable Romantic Comedy Films](http://thehairpin.com/2013/11/pairings-by-profession-in-notable-romantic-comedy-films/)

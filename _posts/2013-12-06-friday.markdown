@@ -4,7 +4,7 @@ title: Friday, December  6, 2013
 date: 2013-12-06 16:03:36
 ---
 
-![Citi Bike](/we-enjoy/assets/bloomberg_citibike.jpg)
+![Citi Bike]({{ site.url }}/assets/bloomberg_citibike.jpg)
 
 * [Citi Bike: Citibank’s New York Marketing Coup](http://www.businessweek.com/articles/2013-10-31/citi-bike-citibanks-new-york-marketing-coup)
 * [Every animated GIF on Wikipedia](http://www.wikigifs.org/)

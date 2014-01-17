@@ -4,7 +4,7 @@ title: Thursday, May 30, 2013
 date: 2013-05-30 08:00:00
 ---
 
-![Poster](/we-enjoy/assets/busshelter-poster.jpg)
+![Poster]({{ site.url }}/assets/busshelter-poster.jpg)
 
 * [Experimental Jetset: Whitney Graphic Identity](http://www.experimentaljetset.nl/archive/whitney-museum-identity)
 * [Choose Wisely](http://mrgan.tumblr.com/post/51561941025/choose-wisely)

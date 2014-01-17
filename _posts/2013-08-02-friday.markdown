@@ -4,7 +4,7 @@ title: Friday, August 2, 2013
 date: 2013-08-02 08:00:00
 ---
 
-![Strike](/we-enjoy/assets/strike.jpg)
+![Strike]({{ site.url }}/assets/strike.jpg)
 
 * [A Day’s Strike Seeks to Raise Fast-Food Pay](http://www.nytimes.com/2013/08/01/business/strike-for-day-seeks-to-raise-fast-food-pay.html?pagewanted=all)
 * [The responsive web + AdSense](http://adsense.blogspot.com/2013/07/the-responsive-web-adsense.html)

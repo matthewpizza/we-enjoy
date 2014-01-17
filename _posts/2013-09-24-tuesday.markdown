@@ -4,7 +4,7 @@ title: Tuesday, September 24, 2013
 date: 2013-09-24 08:00:00
 ---
 
-![bug out](/we-enjoy/assets/bugout.jpg)
+![bug out]({{ site.url }}/assets/bugout.jpg)
 
 * [The Best Bike Lock](http://thesweethome.com/reviews/best-bike-lock/)
 * [The best hidden features in iOS 7](http://www.theverge.com/2013/9/18/4741412/the-best-hidden-features-in-ios-7)

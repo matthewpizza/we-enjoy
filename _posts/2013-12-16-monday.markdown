@@ -4,7 +4,7 @@ title: Monday, December 16, 2013
 date: 2013-12-16 14:49:27
 ---
 
-![Hate Actually](/we-enjoy/assets/hateactually.jpg)
+![Hate Actually]({{ site.url }}/assets/hateactually.jpg)
 
 * [Hate Actually](http://thehairpin.com/2011/12/hate-actually)
 * [Charles Burney, Benjamin Franklin, Farinelli, and Anne Rice](http://urbanhonking.com/regarding/2013/12/07/charles-burney-benjamin-franklin-farinelli-and-anne-rice/)

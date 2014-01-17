@@ -4,7 +4,7 @@ title: Monday, November 18, 2013
 date: 2013-11-18 13:47:18
 ---
 
-![Kshama Sawant](/we-enjoy/assets/kshama_sawant.jpg)
+![Kshama Sawant]({{ site.url }}/assets/kshama_sawant.jpg)
 
 * [Could a Socialist Actually Win Seattle’s City Council Race? Yes.](http://www.thenation.com/blog/177155/socialist-seattle)
 * [Responsive Images standings](https://gist.github.com/Wilto/7453901)

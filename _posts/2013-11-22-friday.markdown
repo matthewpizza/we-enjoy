@@ -4,7 +4,7 @@ title: Friday, November 22, 2013
 date: 2013-11-22 10:16:28
 ---
 
-![The American astronaut Karen Nyberg, Italian astronaut Luca Parmitano and Russian cosmonaut Fyodor Yurchikhin arrived to perform final checks on their space suits before launching for the International Space Station.](/we-enjoy/assets/BAIKONUR.jpg)
+![The American astronaut Karen Nyberg, Italian astronaut Luca Parmitano and Russian cosmonaut Fyodor Yurchikhin arrived to perform final checks on their space suits before launching for the International Space Station.]({{ site.url }}/assets/BAIKONUR.jpg)
 
 * [Russian Space Center in Kazakhstan Counts Down Its Days of Glory](http://www.nytimes.com/2013/06/19/world/asia/kazakh-town-fades-its-days-of-space-glory-numbered.html?pagewanted=all)
 * [Why privately-financed public parks are a bad idea](http://blogs.reuters.com/felix-salmon/2013/11/21/why-privately-financed-public-parks-are-a-bad-idea/)

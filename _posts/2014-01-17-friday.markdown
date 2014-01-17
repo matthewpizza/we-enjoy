@@ -4,7 +4,7 @@ title: Friday, January 17, 2014
 date: 2014-01-17 12:08:41
 ---
 
-![Molly Crabapple]({{ site.url }}assets/molly-glass.jpg)
+![Molly Crabapple]({{ site.url }}/assets/molly-glass.jpg)
 
 * [Google Glass, The Corporate Gaze and Mine](http://rhizome.org/editorial/2014/jan/7/google-glass-male-gaze-and-mine/)
 * [Top 5 C.S.S. Mistakes To Avoid Before You Die](https://medium.com/cool-code-pal/ee3221e30f6c)

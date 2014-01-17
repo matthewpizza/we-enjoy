@@ -4,7 +4,7 @@ title: Monday, December  2, 2013
 date: 2013-12-02 10:51:15
 ---
 
-![Japan](/we-enjoy/assets/japan-ranges.jpg)
+![Japan]({{ site.url }}/assets/japan-ranges.jpg)
 
 * [Olympic Rings of Fear: Japan’s Air Raid Angst (1938)](http://strangemaps.wordpress.com/2008/04/13/265-olympic-rings-of-fear-japans-air-raid-angst-1938/)
 * [Everything You Know About Black Friday Is Wrong](http://www.newyorker.com/online/blogs/currency/2013/11/everything-you-know-about-black-friday-is-wrong.html)

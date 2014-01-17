@@ -4,7 +4,7 @@ title: Wednesday, June 12, 2013
 date: 2013-06-12 08:00:00
 ---
 
-![maternity pack](/we-enjoy/assets/maternity-pack.jpg)
+![maternity pack]({{ site.url }}/assets/maternity-pack.jpg)
 
 * [Why Finnish babies sleep in cardboard boxes](http://www.bbc.co.uk/news/magazine-22751415)
 * [Mean Streets](http://bklynr.com/mean-streets/)

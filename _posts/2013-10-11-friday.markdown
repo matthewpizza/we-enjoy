@@ -4,7 +4,7 @@ title: Friday, October 11, 2013
 date: 2013-10-11 08:00:00
 ---
 
-![Gowanus](/we-enjoy/assets/gowanus.jpg)
+![Gowanus]({{ site.url }}/assets/gowanus.jpg)
 
 * [What Would Happen If You Drank Water From The Gowanus Canal?](http://www.popsci.com/science/article/2013-08/fyi-what-would-happen-if-you-drank-water-gowanus-canal)
 * [Gentrification doesn't trickle down to help everyone](http://www.theguardian.com/commentisfree/2013/oct/10/gentrification-not-urban-renaissance)

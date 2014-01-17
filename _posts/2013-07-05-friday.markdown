@@ -4,7 +4,7 @@ title: Friday, July 5, 2013
 date: 2013-07-05 08:00:00
 ---
 
-![Boxer Santaros](/we-enjoy/assets/boxer.jpg)
+![Boxer Santaros]({{ site.url }}/assets/boxer.jpg)
 
 * [The World Ends with a Handshake: Unraveling the Apocalypse of ‘Southland Tales’](http://motherboard.vice.com/blog/southland-tales-richard-kelly)
 * [Prophet Margin](http://www.lamag.com/speak-easy-qa/2013/07/01/prophet-margin)

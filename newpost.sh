@@ -32,7 +32,7 @@ title: $title
 date: $date
 ---
 
-![](/we-enjoy/assets/)
+![]({{ site.url }}/assets/)
 EOF
 
 subl $post_file

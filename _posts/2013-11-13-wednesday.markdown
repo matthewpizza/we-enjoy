@@ -4,7 +4,7 @@ title: Wednesday, November 13, 2013
 date: 2013-11-13 08:00:00
 ---
 
-![Diff](/we-enjoy/assets/diffprinter.jpg)
+![Diff]({{ site.url }}/assets/diffprinter.jpg)
 
 * [Diff, a live comparator for the web](http://blog.nytlabs.com/2013/11/05/diff-a-live-comparator-for-the-web/)
 * [Starship Troopers: One of the Most Misunderstood Movies Ever](http://www.theatlantic.com/entertainment/archive/2013/11/-em-starship-troopers-em-one-of-the-most-misunderstood-movies-ever/281236/)

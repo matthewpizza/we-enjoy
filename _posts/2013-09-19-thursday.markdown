@@ -4,7 +4,7 @@ title: Thursday, September 19, 2013
 date: 2013-09-19 08:00:00
 ---
 
-![The Blow](/we-enjoy/assets/theblow.jpg)
+![The Blow]({{ site.url }}/assets/theblow.jpg)
 
 * [Q&A: The Blow](http://www.portlandmonthlymag.com/arts-and-entertainment/culturephile-portland-arts/articles/q-and-a-the-blow-september-2013)
 * [Hip-Hop, Tolerance and a D.J.’s Bared Soul: He’s Tired of Denial](http://www.nytimes.com/2013/09/14/arts/music/homophobia-and-hip-hop-a-confession-breaks-a-barrier.html?pagewanted=all)

@@ -4,7 +4,7 @@ title: Wednesday, September 4, 2013
 date: 2013-09-04 08:00:00
 ---
 
-![Kathleen Hanna](/we-enjoy/assets/hanna.jpg)
+![Kathleen Hanna]({{ site.url }}/assets/hanna.jpg)
 
 * [Kathleen Hanna Returns With the Julie Ruin](http://www.nytimes.com/2013/09/02/arts/music/kathleen-hanna-returns-with-the-julie-ruin.html?pagewanted=all)
 * [Women up front: The punk Riot Girl movement](http://communities.washingtontimes.com/neighborhood/rankin-full-stop/2013/sep/3/women-front/)

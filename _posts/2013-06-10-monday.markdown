@@ -4,7 +4,7 @@ title: Monday, June 10, 2013
 date: 2013-06-10 08:00:00
 ---
 
-![Abigail Heyman](/we-enjoy/assets/heyman.jpg)
+![Abigail Heyman]({{ site.url }}/assets/heyman.jpg)
 
 * [Abigail Heyman, Feminist Photojournalist, Dies at 70](http://mobile.nytimes.com/2013/06/09/arts/design/abigail-heyman-feminist-photojournalist-dies-at-70.html)
 * [Misogyny and the Marketing Chick](https://medium.com/about-work/aa49dffc975d)

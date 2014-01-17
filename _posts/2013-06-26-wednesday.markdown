@@ -4,7 +4,7 @@ title: Wednesday, June 26, 2013
 date: 2013-06-26 08:00:00
 ---
 
-![Miami](/we-enjoy/assets/miami.jpg)
+![Miami]({{ site.url }}/assets/miami.jpg)
 
 * [Why the City of Miami Is Doomed to Drown](http://www.rollingstone.com/politics/news/why-the-city-of-miami-is-doomed-to-drown-20130620?print=true)
 * [Persuading David Simon](https://blog.pinboard.in/2013/06/persuading_david_simon/)

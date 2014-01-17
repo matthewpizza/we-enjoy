@@ -4,7 +4,7 @@ title: Friday, July 12, 2013
 date: 2013-07-12 08:00:00
 ---
 
-![Voting Rights Act](/we-enjoy/assets/vra.jpg)
+![Voting Rights Act]({{ site.url }}/assets/vra.jpg)
 
 * [Gay Is Not the New Black: The Supreme Court and the Politics of Misrecognition](http://rhrealitycheck.org/article/2013/07/09/gay-is-not-the-new-black-the-supreme-court-and-the-politics-of-misrecognition/)
 * [California inmates launch biggest hunger strike in state's history](http://www.guardian.co.uk/world/2013/jul/09/california-prisoners-hunger-strike)

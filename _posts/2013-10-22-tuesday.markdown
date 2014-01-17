@@ -4,7 +4,7 @@ title: Tuesday, October 22, 2013
 date: 2013-10-22 08:00:00
 ---
 
-![People without JavaScript](/we-enjoy/assets/javascript.png)
+![People without JavaScript]({{ site.url }}/assets/javascript.png)
 
 * [How many people are missing out on JavaScript enhancement?](http://digital.cabinetoffice.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/)
 * [Why I create for the web](http://blog.neave.com/post/64669185529/why-i-create-for-the-web)

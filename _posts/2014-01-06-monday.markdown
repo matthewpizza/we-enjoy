@@ -4,7 +4,7 @@ title: Monday, January  6, 2014
 date: 2014-01-06 14:21:29
 ---
 
-![Antarctic](/we-enjoy/assets/smith_antarctica.jpg)
+![Antarctic]({{ site.url }}/assets/smith_antarctica.jpg)
 
 * [On Ice: 100-year-old negatives discovered in Antarctic](http://www.imaging-resource.com/news/2013/12/27/on-ice-100-year-old-negative-discovered-in-antarctic-ice)
 * [The only way to stop climate change now may be revolution](http://qz.com/154196/the-only-way-to-stop-climate-change-now-may-be-revolution/)

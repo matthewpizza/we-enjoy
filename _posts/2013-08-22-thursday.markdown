@@ -4,7 +4,7 @@ title: Thursday, August 22, 2013
 date: 2013-08-22 08:00:00
 ---
 
-![Antoinette Tuff](/we-enjoy/assets/antoinette-tuff.jpg)
+![Antoinette Tuff]({{ site.url }}/assets/antoinette-tuff.jpg)
 
 * [Antoinette Tuff: Meet the Woman Who Prevented a Mass School Shooting Yesterday](http://www.policymic.com/articles/60379/antoinette-tuff-meet-the-woman-who-prevented-a-mass-school-shooting-yesterday)
 * [Beyond Bradley Manning: The Government Has Made Its Point](https://www.aclu.org/blog/free-speech-national-security/beyond-bradley-manning-government-has-made-its-point-updated)

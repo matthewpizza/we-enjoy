@@ -4,7 +4,7 @@ title: Wednesday, January 15, 2014
 date: 2014-01-15 12:28:44
 ---
 
-![NSA shit tho](/we-enjoy/assets/nsa.jpg)
+![NSA shit tho]({{ site.url }}/assets/nsa.jpg)
 
 * [N.S.A. Devises Radio Pathway Into Computers](http://www.nytimes.com/2014/01/15/us/nsa-effort-pries-open-computers-not-connected-to-internet.html)
 * [Bulletproof Accessible Icon Fonts](http://filamentgroup.com/lab/bulletproof_icon_fonts/)

@@ -4,7 +4,7 @@ title: Friday, August 16, 2013
 date: 2013-08-16 08:00:00
 ---
 
-![turrell](/we-enjoy/assets/turrell.jpg)
+![turrell]({{ site.url }}/assets/turrell.jpg)
 
 * [HELIO COURIER](http://omnireboot.com/phenomena/helio-courier/)
 * [Big Smart Objects: Drone Culture and Elysium](http://www.grantland.com/blog/hollywood-prospectus/post/_/id/84138/big-smart-objects-drone-culture-and-elysium)

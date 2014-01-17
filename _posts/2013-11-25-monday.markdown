@@ -4,7 +4,7 @@ title: Monday, November 25, 2013
 date: 2013-11-25 14:29:49
 ---
 
-![Jonestown](/we-enjoy/assets/jimjones.jpg)
+![Jonestown]({{ site.url }}/assets/jimjones.jpg)
 
 * [Why Did So Many Black Women Die? Jonestown at 35](http://www.religiondispatches.org/archive/culture/7402/why_did_so_many_black_women_die_jonestown_at_35___culture___/)
 * [Healthcare.gov: It Could Be Worse](http://www.newyorker.com/online/blogs/elements/2013/10/why-the-healthcaregov-train-wreck-happened-in-slow-motion.html)

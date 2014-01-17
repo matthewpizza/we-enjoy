@@ -4,7 +4,7 @@ title: Tuesday, September 10, 2013
 date: 2013-09-10 08:00:00
 ---
 
-![Hobonichi Planner](/we-enjoy/assets/hobonichi-planner.jpg)
+![Hobonichi Planner]({{ site.url }}/assets/hobonichi-planner.jpg)
 
 * [Hobonichi Planner going global](http://pingmag.jp/2013/08/30/hobonichi-planner/)
 * [Pax Dickinson: Business Insider CTO forced out for sexist, racist tweets.](http://www.slate.com/blogs/xx_factor/2013/09/10/pax_dickinson_business_insider_cto_forced_out_for_sexist_racist_tweets.html)

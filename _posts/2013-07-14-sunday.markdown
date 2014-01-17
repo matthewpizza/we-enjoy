@@ -4,7 +4,7 @@ title: Sunday, July 14, 2013
 date: 2013-07-14 08:00:00
 ---
 
-![George Zimmerman](/we-enjoy/assets/zimmerman.jpg)
+![George Zimmerman]({{ site.url }}/assets/zimmerman.jpg)
 
 * [Zimmerman Is Acquitted in Trayvon Martin Killing](http://www.nytimes.com/2013/07/14/us/george-zimmerman-verdict-trayvon-martin.html)
 * [NRA Offers ‘Stand Your Ground’ Insurance To Cover Legal Costs Of Shooting People In Self-Defense](http://thinkprogress.org/justice/2012/06/13/497635/nra-stand-your-ground-insurance/)

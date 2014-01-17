@@ -4,7 +4,7 @@ title: Thursday, December  5, 2013
 date: 2013-12-05 12:21:16
 ---
 
-![Metta World Peace](/we-enjoy/assets/worldpeace.jpg)
+![Metta World Peace]({{ site.url }}/assets/worldpeace.jpg)
 
 * [Peace on Earth](http://theclassical.org/articles/peace-on-earth)
 * [Announcing the Design Illuminary Duplication Initiative!](http://www.ephemeralstates.com/2013/12/announcing-the-design-illuminary-duplication-initiative/)

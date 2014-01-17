@@ -4,7 +4,7 @@ title: Thursday, June 20, 2013
 date: 2013-06-20 08:00:00
 ---
 
-![Your Mother](/we-enjoy/assets/yourmother.jpg)
+![Your Mother]({{ site.url }}/assets/yourmother.jpg)
 
 * [I’M SWIMMIN](http://internetkhole.blogspot.com/2013/06/im-swimmin.html)
 * [Census Benchmark for White Americans: More Deaths Than Births](http://mobile.nytimes.com/2013/06/13/us/census-benchmark-for-white-americans-more-deaths-than-births.html)

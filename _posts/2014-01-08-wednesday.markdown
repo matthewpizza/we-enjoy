@@ -4,7 +4,7 @@ title: Wednesday, January  8, 2014
 date: 2014-01-08 11:31:51
 ---
 
-![maps](/we-enjoy/assets/google_maps.jpg)
+![maps]({{ site.url }}/assets/google_maps.jpg)
 
 * [Google’s Road Map to Global Domination](http://www.nytimes.com/2013/12/15/magazine/googles-plan-for-global-domination-dont-ask-why-ask-where.html?pagewanted=all)
 * [How ‘Her’ Gets the Future Right](http://www.thedailybeast.com/articles/2013/12/21/how-her-gets-the-future-right.html)

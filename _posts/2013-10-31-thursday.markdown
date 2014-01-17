@@ -4,7 +4,7 @@ title: Thursday, October 31, 2013
 date: 2013-10-31 08:00:00
 ---
 
-![myst](/we-enjoy/assets/myst.jpg)
+![myst]({{ site.url }}/assets/myst.jpg)
 
 * [Looking back on the game ‘Myst’ on its 20th anniversary](http://www.grantland.com/story/_/id/9713372/looking-back-game-myst-20th-anniversary)
 * [On journalism and learning to code (again)](http://veltman.tumblr.com/post/64900530026/on-journalism-and-learning-to-code-again)

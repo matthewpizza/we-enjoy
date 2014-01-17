@@ -4,7 +4,7 @@ title: Friday, November 1, 2013
 date: 2013-11-01 08:00:00
 ---
 
-![bosh](/we-enjoy/assets/bosh.jpg)
+![bosh]({{ site.url }}/assets/bosh.jpg)
 
 * [NBA Superstar Chris Bosh: Here’s Why You Should Learn to Code](http://www.wired.com/opinion/2013/10/chris-bosh-why-everyone-should-learn-to-code/)
 * [Back to the Future, as it happened, in real time](https://twitter.com/_HillValley/the-hill-valley-project)

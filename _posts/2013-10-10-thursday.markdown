@@ -4,7 +4,7 @@ title: Thursday, October 10, 2013
 date: 2013-10-10 08:00:00
 ---
 
-![Hottest Years on Record](/we-enjoy/assets/heat.jpg)
+![Hottest Years on Record]({{ site.url }}/assets/heat.jpg)
 
 * [Get Ready for Record Temperatures…for the Rest of Your](http://www.motherjones.com/environment/2013/10/research-mora-carbon-hotter-temperatures)
 * [If the 1% stifles New York's creative talent, I'm out of here](http://www.theguardian.com/commentisfree/2013/oct/07/new-york-1percent-stifles-creative-talent)

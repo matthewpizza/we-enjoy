@@ -4,7 +4,7 @@ title: Thursday, September 26, 2013
 date: 2013-09-26 08:00:00
 ---
 
-![Amplutihedron](/we-enjoy/assets/amplutihedron_span.jpg)
+![Amplutihedron]({{ site.url }}/assets/amplutihedron_span.jpg)
 
 * [Physicists Discover Geometry Underlying Particle Physics](https://www.simonsfoundation.org/quanta/20130917-a-jewel-at-the-heart-of-quantum-physics/)
 * [AIG CEO Compares Anger At Wall Street Bonuses To The Lynching Of Black People In The South](http://www.zerohedge.com/news/2013-09-24/aig-ceo-compares-anger-wall-street-bonuses-lynching-black-people-south)

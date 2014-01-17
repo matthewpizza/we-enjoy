@@ -4,7 +4,7 @@ title: Thursday, July 25, 2013
 date: 2013-07-25 08:00:00
 ---
 
-![Skatebrake](/we-enjoy/assets/skatebrake.jpg)
+![Skatebrake]({{ site.url }}/assets/skatebrake.jpg)
 
 * [Why Longboards Suck](http://theclassical.org/articles/why-longboards-suck)
 * [Drawing Batman (with your eyes closed)](http://www.moss.fm/post/56262103233/drawing-batman-with-your-eyes-closed)

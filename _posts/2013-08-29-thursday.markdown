@@ -4,7 +4,7 @@ title: Thursday, August 29, 2013
 date: 2013-08-29 08:00:00
 ---
 
-![Rim Fire](/we-enjoy/assets/rimfire.nasa.jpg)
+![Rim Fire]({{ site.url }}/assets/rimfire.nasa.jpg)
 
 * [9 Scary Facts About the Yosemite Fire](http://m.motherjones.com/environment/2013/08/rim-fire-yosemite-explainer)
 * [Found After Decades, a Forgotten Tape of King ‘Thinking on His Feet’](http://cityroom.blogs.nytimes.com/2013/08/22/found-after-decades-a-forgotten-tape-of-king-thinking-on-his-feet/)

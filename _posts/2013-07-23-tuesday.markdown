@@ -4,7 +4,7 @@ title: Tuesday, July 23, 2013
 date: 2013-07-23 08:00:00
 ---
 
-![Jeff](/we-enjoy/assets/jeffwalks.jpg)
+![Jeff]({{ site.url }}/assets/jeffwalks.jpg)
 
 * [A Picture’s Worth](http://onefoottsunami.com/2013/07/19/a-pictures-worth/)
 * [Authentic Design](http://www.smashingmagazine.com/2013/07/16/authentic-design/)

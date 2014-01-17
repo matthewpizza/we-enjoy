@@ -4,7 +4,7 @@ title: Thursday, June 13, 2013
 date: 2013-06-13 08:00:00
 ---
 
-![Miniture Arc Reactor](/we-enjoy/assets/arc-reactor.jpg)
+![Miniture Arc Reactor]({{ site.url }}/assets/arc-reactor.jpg)
 
 * [What is the theory/concept behind the “Miniature Arc Reactor” built by Tony Stark?](http://www.quora.com/Technology/What-is-the-theory-concept-behind-the-Miniature-Arc-Reactor-built-by-Tony-Stark/answer/Ryan-Carlyle)
 * [12 June 2013 — Erin Kissane](http://the-pastry-box-project.net/erin-kissane/2013-june-12/)

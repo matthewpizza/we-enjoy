@@ -4,7 +4,7 @@ title: Wednesday, July 10, 2013
 date: 2013-07-10 08:00:00
 ---
 
-![Oblivion](/we-enjoy/assets/oblivion-poster.jpg)
+![Oblivion]({{ site.url }}/assets/oblivion-poster.jpg)
 
 * [The Poster For “Oblivion”](http://urbanhonking.com/regarding/2013/07/09/the-poster-for-oblivion/)
 * [Anti-Gay Ender’s Game Author Asks for Tolerance](http://www.vulture.com/2013/07/anti-gay-enders-game-author-asks-for-tolerance.html)

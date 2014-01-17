@@ -4,7 +4,7 @@ title: Thursday, October 3, 2013
 date: 2013-10-03 08:00:00
 ---
 
-![Gravity](/we-enjoy/assets/gravity.jpg)
+![Gravity]({{ site.url }}/assets/gravity.jpg)
 
 * [Astronaut and a Writer at the Movies](http://www.nytimes.com/2013/10/01/science/space/an-astronaut-and-a-writer-at-the-movies.html)
 * [How About Some Fucking Whimsy?](http://torrez.org/how-about-some-fucking-whimsy.html)

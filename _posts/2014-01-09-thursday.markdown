@@ -4,7 +4,7 @@ title: Thursday, January  9, 2014
 date: 2014-01-09 10:50:12
 ---
 
-![goodyear](/we-enjoy/assets/goodyear.jpg)
+![goodyear]({{ site.url }}/assets/goodyear.jpg)
 
 * [In France, Kidnapping the Boss Usually Pays Off](http://www.businessweek.com/articles/2014-01-07/in-france-kidnapping-the-boss-usually-pays-off)
 * [John Hodgman: “‘Downton Abbey’ with Cats”](http://www.newyorker.com/humor/2014/01/13/140113sh_shouts_hodgman)

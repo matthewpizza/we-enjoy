@@ -4,7 +4,7 @@ title: Thursday, December 12, 2013
 date: 2013-12-12 09:40:52
 ---
 
-![Google Bus Protestors](/we-enjoy/assets/googlebusprotestors.jpg)
+![Google Bus Protestors]({{ site.url }}/assets/googlebusprotestors.jpg)
 
 * [Which side are you on?](https://medium.com/p/9f6896d92c79)
 * [Texas rich kid who killed 4 in drunken car crash spared jail](http://m.nydailynews.com/1.1544508)

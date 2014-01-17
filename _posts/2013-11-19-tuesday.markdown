@@ -4,7 +4,7 @@ title: Tuesday, November 19, 2013
 date: 2013-11-19 12:49:27
 ---
 
-![vandamme](/we-enjoy/assets/vandamme.jpg)
+![vandamme]({{ site.url }}/assets/vandamme.jpg)
 
 * [Van Damme’s epic split for Volvo Trucks](http://www.creativereview.co.uk/cr-blog/2013/november/van-dammes-epic-split-for-volvo-trucks)
 * [The Valuation Problem](http://therotation.sportsonearthblog.com/the-valuation-problem/)
