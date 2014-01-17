@@ -1,5 +1,5 @@
 name: We Enjoy
-baseurl: /we-enjoy
+url: http://matthewspencer.github.io/we-enjoy/
 safe: true
 lsi: false
 pygments: true
