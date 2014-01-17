@@ -6,5 +6,6 @@ pygments: true
 server: false
 auto: false
 watch: false
+permalink: pretty
 paginate: 7
 paginate_path: "page/:num"
