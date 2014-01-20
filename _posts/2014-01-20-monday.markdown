@@ -1,0 +1,14 @@
+---
+layout: post
+title: Monday, January 20, 2014
+date: 2014-01-20 10:54:56
+---
+
+![Pavlof eruption]({{ site.url }}/assets/pavlof-eruption.jpg)
+
+* [Favorite satellite images of 2013](https://www.mapbox.com/blog/yearend-images-2013/)
+* [Rethinking Blogs at The New York Times](http://scotty-t.com/2014/01/15/rethinking-blogs-at-the-new-york-times/)
+* [“Net neutrality is half-dead”](http://tracks.ranea.org/post/73328041963/net-neutrality-is-half-dead)
+* [Why Her Will Dominate UI Design Even More Than Minority Report](http://www.wired.com/design/2014/01/will-influential-ui-design-minority-report/)
+* [The Saw: Part Three](http://urbanhonking.com/tools/2014/01/the-saw-part-three/)
+* [Kanye West interviewed by Steve McQueen](http://www.interviewmagazine.com/music/kanye-west)
