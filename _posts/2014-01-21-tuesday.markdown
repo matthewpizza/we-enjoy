@@ -1,0 +1,14 @@
+---
+layout: post
+title: Tuesday, January 21, 2014
+date: 2014-01-21 14:00:10
+---
+
+![house numbers]({{ site.url }}/assets/streetview.png)
+
+* [How Google Cracked House Number Identification in Street View](http://www.technologyreview.com/view/523326/how-google-cracked-house-number-identification-in-street-view/)
+* [What To Do Today? Enjoy 5 Every Day](http://www.laimyours.com/60308/what-to-do-today-enjoy-5-every-day/)
+* [As California’s Drought Deepens, a Sense of Dread Grows](http://www.nytimes.com/2014/01/18/us/as-californias-drought-deepens-a-sense-of-dread-grows.html)
+* [The House That Hova Built](http://www.nytimes.com/2012/09/09/t-magazine/the-house-that-hova-built.html?pagewanted=all)
+* [Richard Sherman explains the Crabtree incident and postgame interview](http://mmqb.si.com/2014/01/20/richard-sherman-interview-michael-crabtree/)
+* [2013: The Year According to Martine Syms](http://blogs.walkerart.org/design/2014/01/07/2013-the-year-according-to-martine-syms/)
