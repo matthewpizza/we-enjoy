@@ -1,0 +1,14 @@
+---
+layout: post
+title: Tuesday, January 28, 2014
+date: 2014-01-28 11:03:46
+---
+
+![Dr. Strangelove]({{ site.url }}/assets/dr-strangelove.jpg)
+
+* [The Truths Behind ‘Dr. Strangelove’](http://www.newyorker.com/online/blogs/newsdesk/2014/01/strangelove-for-real.html)
+* [Maps with D3](http://futuraprime.net/d3maps/)
+* [Stanford Man: Richard Sherman and the Thug Athlete Narrative](http://grantland.com/the-triangle/stanford-man-richard-sherman-and-the-thug-athlete-narrative/)
+* [The Names They Gave Me](http://the-toast.net/2014/01/15/the-names-they-gave-me/)
+* [Discourse in web design](http://jasonsantamaria.com/articles/discourse-in-web-design)
+* [Why It’s Worth Banishing Men Once in a While](http://nymag.com/thecut/2014/01/why-its-worth-banishing-men-once-in-a-while.html)
