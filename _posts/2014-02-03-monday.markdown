@@ -1,0 +1,14 @@
+---
+layout: post
+title: Monday, February  3, 2014
+date: 2014-02-03 14:27:53
+---
+
+![jay peds]({{ site.url }}/assets/jaywalking.jpg)
+
+* [When Pedestrians Get Mixed Signals](http://www.nytimes.com/2014/02/02/opinion/sunday/when-pedestrians-get-mixed-signals.html)
+* [An Open Letter From Dylan Farrow](http://kristof.blogs.nytimes.com/2014/02/01/an-open-letter-from-dylan-farrow/)
+* [Jerry Sandusky and the Mind of a Pedophile](http://www.newyorker.com/arts/critics/atlarge/2012/09/24/120924crat_atlarge_gladwell)
+* [Woody Allen’s Good Name](http://thenewinquiry.com/blogs/zunguzungu/woody-allens-good-name/)
+* [Scarlett Johansson quits Oxfam over SodaStream criticism](http://www.nbcnews.com/entertainment/scarlett-johansson-quits-oxfam-over-sodastream-criticism-2D12024228)
+* [Letter from ‘Manhattan’ by Joan Didion](http://www.nybooks.com/articles/archives/1979/aug/16/letter-from-manhattan/)
