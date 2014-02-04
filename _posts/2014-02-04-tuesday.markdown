@@ -1,0 +1,14 @@
+---
+layout: post
+title: Tuesday, February  4, 2014
+date: 2014-02-04 15:15:13
+---
+
+![zero gravity toilet]({{ site.url }}/assets/zero_gravity_toilet.jpg)
+
+* [Typeset In The Future — 2001: A Space Odyssey](http://typesetinthefuture.com/2001-a-space-odyssey/)
+* [Go Forth, Feminist Warriors](http://rookiemag.com/2014/01/theme-song-go-forth-feminist-warriors/)
+* [Rachel Aviv: The Scientist Who Took on a Leading Herbicide Manufacturer](http://www.newyorker.com/reporting/2014/02/10/140210fa_fact_aviv)
+* [I talked to Phil Elverum about Twitter](http://www.khaelamaricich.com/i-talked-to-phil-elverum-about-twitter/)
+* [Every Story has a Name](http://news.fiftythree.com/post/75486632209/every-story-has-a-name-fiftythrees-story-began)
+* [Lunch Talks — Matt Owens](http://lunchtalks.hyperakt.com/matt-owens)
