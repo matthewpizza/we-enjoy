@@ -1,0 +1,14 @@
+---
+layout: post
+title: Thursday, February  6, 2014
+date: 2014-02-06 13:40:03
+---
+
+![Roger Bannister]({{ site.url }}/assets/roger-bannister.jpg)
+
+* [The Man Who Made the Four-Minute-Mile Possible](http://www.stridenation.com/2014/1/30/5360830/the-man-who-made-the-four-minute-mile-possible)
+* [Assault on California Power Station Raises Alarm on Potential for Terrorism](http://webcache.googleusercontent.com/search?q=cache:KKydoJ5AlZkJ:online.wsj.com/article/SB10001424052702304851104579359141941621778.html+&cd=1&hl=en&ct=clnk&gl=us)
+* [Russia Blocks Yogurt Bound for U.S. Athletes](http://www.nytimes.com/2014/02/06/nyregion/russia-blocking-a-yogurt-shipment-from-reaching-us-olympians.html)
+* [Verizon using recent Net Neutrality victory to wage war against Netflix](http://www.davesblog.com/blog/2014/02/05/verizon-using-recent-net-neutrality-victory-to-wage-war-against-netflix/)
+* [Terry Richardson: fashion’s shameful secret](http://www.theguardian.com/fashion/2013/nov/18/terry-richardson-fashion-shameful-photographer)
+* [What’s a Responsible, Progressive Position on an Israeli Settlements Boycott?](http://prospect.org/article/whats-responsible-progressive-position-israeli-settlements-boycott)
