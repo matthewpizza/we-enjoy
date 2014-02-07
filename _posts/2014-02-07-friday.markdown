@@ -1,0 +1,14 @@
+---
+layout: post
+title: Friday, February  7, 2014
+date: 2014-02-07 11:39:03
+---
+
+![k10k]({{ site.url }}/assets/k10kbedroom.png)
+
+* [The original designer’s lunchbox.](http://www.cubancouncil.com/work/project/kaliber-10000)
+* [An Imbalance of Power: The Woody Allen and Dylan Farrow Controversy](http://grantland.com/hollywood-prospectus/an-imbalance-of-power-the-woody-allen-and-dylan-farrow-controversy/)
+* [When “Life Hacking” Is Really White Privilege](https://medium.com/get-bullish/a5e5f4e9132f)
+* [That NBC story 100% fraudulent](http://blog.erratasec.com/2014/02/that-nbc-story-100-fraudulent.html)
+* [Son, It’s Time We Talk About Where Start-Ups Come From.](http://www.mcsweeneys.net/articles/son-its-time-we-talk-about-where-start-ups-come-from)
+* [Google Alert for the Soul](http://thenewinquiry.com/essays/google-alert-for-the-soul/)
