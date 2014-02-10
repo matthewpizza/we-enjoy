@@ -1,0 +1,14 @@
+---
+layout: post
+title: Monday, February 10, 2014
+date: 2014-02-10 14:35:55
+---
+
+![streets]({{ site.url }}/assets/nyc-streets-before-after.jpg)
+
+* [Before & After: 25 of New York City’s Most Transformative Road Diets](http://blog.archpaper.com/wordpress/archives/67137)
+* [How Snowstorms Reveal the Wasted Space on Our Roads](http://gizmodo.com/how-snowstorms-reveal-the-wasted-space-on-our-roads-1517886247)
+* [The Daily Show’s Jessica Williams on Race, Comedy, and Her Role in “Girls.”](http://m.motherjones.com/media/2013/12/interview-jessica-williams-daily-show-race-comedy-girls)
+* [N.F.L. Prospect Michael Sam Proudly Says What Teammates Knew: He’s Gay](http://www.nytimes.com/2014/02/10/sports/michael-sam-college-football-star-says-he-is-gay-ahead-of-nfl-draft.html)
+* [Tim Armstrong blames “distressed babies” for AOL benefit cuts. He’s talking about my daughter.](http://www.slate.com/articles/double_x/doublex/2014/02/tim_armstrong_blames_distressed_babies_for_aol_benefit_cuts_he_s_talking.html)
+* [Dylan Farrow Responds to Woody Allen: ‘Distortions and Outright Lies’](http://www.hollywoodreporter.com/news/dylan-farrow-responds-woody-allen-678552)
