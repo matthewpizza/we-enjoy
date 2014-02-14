@@ -2,8 +2,13 @@
 
 echo "Resize new images"
 
+# where are we
+pushd `dirname $0` > /dev/null
+	DIR=`pwd`
+popd > /dev/null
+
 # cd original assets directory
-cd assets/_
+cd "$DIR"/../assets/_
 
 # find file modified today
 for f in $(find . -type f -newermt $(date +"%Y-%m-%d") \( -iname \*.png -o -iname \*.jpg -o -iname \*.jpeg -o -iname \*.gif \)); do
