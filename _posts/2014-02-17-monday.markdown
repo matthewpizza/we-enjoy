@@ -1,0 +1,14 @@
+---
+layout: post
+title: Monday, February 17, 2014
+date: 2014-02-17 15:31:17
+---
+
+![Gezi Park]({{ site.url }}/assets/istanbul.jpg)
+
+* [Is the Internet good or bad? Yes.](https://medium.com/matter/76d9913c6011)
+* [How Crowdworkers Became the Ghosts in the Digital Machine](http://www.thenation.com/article/178241/how-crowdworkers-became-ghosts-digital-machine)
+* [What The Hell Just Happened In Kansas?](http://dish.andrewsullivan.com/2014/02/14/what-the-hell-just-happened-in-kansas/)
+* [On the Killing of Jordan Davis by Michael Dunn](http://www.theatlantic.com/politics/archive/2014/02/on-the-killing-of-jordan-davis-by-michael-dunn/283870/)
+* [How ALEC Took Florida’s ‘License to Kill’ Law National](http://www.thenation.com/blog/166978/how-alec-took-floridas-license-kill-law-national)
+* [Use Force to Save Starving Syrians](http://www.nytimes.com/2014/02/11/opinion/use-force-to-save-starving-syrians.html)
