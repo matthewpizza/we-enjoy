@@ -1,0 +1,14 @@
+---
+layout: post
+title: Tuesday, February 18, 2014
+date: 2014-02-18 14:35:23
+---
+
+![the king in yellow]({{ site.url }}/assets/yellow-king.jpg)
+
+* [The One Literary Reference You Must Know to Appreciate ​True Detective](http://io9.com/the-one-literary-reference-you-must-know-to-appreciate-1523076497)
+* [“True Detective”: A Pure Visual Novel](http://blogs.bookforum.com/review/2014/02/06/true-detective-a-pure-visual-novel/)
+* [Jim Dow, photographer of the America I wish I'd been to](http://interiorator.com/jim-dow-photographer-america-wish-id/)
+* [The Plus in Google Plus? It’s Mostly for Google](http://www.nytimes.com/2014/02/15/technology/the-plus-in-google-plus-its-mostly-for-google.html)
+* [Teach for America’s Mission in Chicago](https://www.jacobinmag.com/2013/07/teach-for-america-mission/)
+* [Miranda July Interview by Ann Friedman](http://www.cosstores.com/pt/Magazine/SS14/Miranda_July)
