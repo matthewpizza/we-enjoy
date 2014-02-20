@@ -1,0 +1,14 @@
+---
+layout: post
+title: Thursday, February 20, 2014
+date: 2014-02-20 13:25:10
+---
+
+![Ukraine]({{ site.url }}/assets/ukraine-apart.jpg)
+
+* [Will Ukraine Break Apart?](http://www.newyorker.com/online/blogs/newsdesk/2014/02/will-ukraine-break-apart.html)
+* [A review of Her by Ray Kurzweil](http://www.kurzweilai.net/a-review-of-her-by-ray-kurzweil)
+* [The Night Venezuela Finally Imploded](http://caracaschronicles.com/2014/02/19/19f/)
+* [A ‘Flowers for Algernon’ for the Digital Age](http://grantland.com/hollywood-prospectus/spike-jonzes-her-is-a-flowers-for-algernon-for-the-digital-age/)
+* [How I was able to track the location of any Tinder user.](http://blog.includesecurity.com/2014/02/how-i-was-able-to-track-location-of-any.html)
+* [‘Her’ and Rooney Mara, Spike Jonze’s Anti-Twombly](http://grantland.com/hollywood-prospectus/her-and-rooney-mara-spike-jonzes-anti-twombly/)
