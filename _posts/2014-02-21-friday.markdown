@@ -1,0 +1,14 @@
+---
+layout: post
+title: Friday, February 21, 2014
+date: 2014-02-21 10:33:07
+---
+
+![Toshiko d’Elia]({{ site.url }}/assets/toshiko-delia.jpg)
+
+* [Toshiko d’Elia, Gritty Runner, Dies at 84](http://www.nytimes.com/2014/02/21/sports/toshiko-delia-gritty-runner-dies-at-84.html)
+* [Mary Beard: The Public Voice of Women](http://www.lrb.co.uk/2014/02/14/mary-beard/the-public-voice-of-women)
+* [A collection of my 6 favorite JavaScript one-liners](https://medium.com/html5-css3/7c80a4b731f8)
+* [Why BBVA is good for Simple](http://blogs.reuters.com/felix-salmon/2014/02/20/why-bbva-is-good-for-simple/)
+* [Live Editing Sass and Less in the Firefox Developer Tools](https://hacks.mozilla.org/2014/02/live-editing-sass-and-less-in-the-firefox-developer-tools/)
+* [What Snow Tells Us About Creating Better Public Spaces on E. Passyunk Avenue](http://thisoldcity.com/advocacy/photos-what-snow-tells-us-about-creating-better-public-spaces-e-passyunk-avenue)
