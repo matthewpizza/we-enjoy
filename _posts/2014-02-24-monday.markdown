@@ -1,0 +1,14 @@
+---
+layout: post
+title: Monday, February 24, 2014
+date: 2014-02-24 15:44:23
+---
+
+![Russia]({{ site.url }}/assets/russia.jpg)
+
+* [Beyond Sochi: Photos Of Russia By Russians](http://www.npr.org/blogs/pictureshow/2014/02/22/280433245/beyond-sochi-photos-of-russia-by-russians)
+* [Apple’s SSL/TLS bug](https://www.imperialviolet.org/2014/02/22/applebug.html)
+* [FAQ: Why Is the NSA So Interested in ‘Angry Birds’?](http://www.psmag.com/navigation/politics-and-law/faq-nsa-interested-angry-birds-leaky-smartphone-apps-75155/)
+* [Bethany violist heads to Iceland to study with composer Daniel Bjarnason](http://www.oregonlive.com/north-of-26/index.ssf/2014/02/bethany_violist_heads_to_icela.html)
+* [You’re not going to read this](http://www.theverge.com/2014/2/14/5411934/youre-not-going-to-read-this)
+* [The Rise and Fall of NYC’s Biggest Pill Mill](http://nymag.com/daily/intelligencer/2014/02/rise-and-fall-of-nycs-biggest-pill-mill.html)
