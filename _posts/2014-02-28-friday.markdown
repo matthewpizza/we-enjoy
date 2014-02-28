@@ -1,0 +1,14 @@
+---
+layout: post
+title: Friday, February 28, 2014
+date: 2014-02-28 10:16:01
+---
+
+![Accessibility]({{ site.url }}/assets/accessibility.gif)
+
+* [Accessibility and Building a web for everyone because sometimes it’s not all about us](http://negativitysandwiches.com/accessibility-and-building-a-web-for-everyone-because-sometimes-its-not-all-about-us/)
+* [“My brother passed away at the age of 23 because of a design choice in a video game…”](https://the-pastry-box-project.net/kevin-miller/2014-february-24)
+* [Platformed.](http://unstoppablerobotninja.com/entry/platformed/)
+* [Inside The Netflix/Comcast Deal and What The Media Is Getting Very Wrong](http://blog.streamingmedia.com/2014/02/media-botching-coverage-netflix-comcast-deal-getting-basics-wrong.html)
+* [Good Samaritan Backfire](https://medium.com/best-of-medium/9f53ef6a1c10)
+* [Spike Rages Against Gentrifiers (That He Prolly Helped Lure).](http://www.postbourgie.com/2014/02/26/spike-rages-against-gentrifiers-that-he-may-have-helped-lure/)
