@@ -1,0 +1,14 @@
+---
+layout: post
+title: Monday, March  3, 2014
+date: 2014-03-03 12:28:06
+---
+
+![placeholder text]({{ site.url }}/assets/placeholder-text.jpg)
+
+* [What happens when placeholder text doesn’t get replaced](http://www.elezea.com/2014/02/lorem-ipsum-gone-wrong/)
+* [Dr Strangebug. or How I Learned to Stop Worrying and Love QA, by furf.](http://www.hugeinc.com/ideas/perspective/dr-strangebug)
+* [Women in Technology: Aminatou Sow and Erie Meyer](http://www.elle.com/news/culture/tech-lady-mafia-aminatou-sow)
+* [Twitter I Love You But You’re Bringing Me Down](https://medium.com/editors-picks/96f86c76b9d6)
+* [Beyond Avant-Garde](http://thenewinquiry.com/blogs/marginal-utility/beyond-avant-garde/)
+* [Normcore: Fashion for Those Who Realize They’re One in 7 Billion](http://nymag.com/thecut/2014/02/normcore-fashion-trend.html)
