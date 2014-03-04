@@ -1,0 +1,14 @@
+---
+layout: post
+title: Tuesday, March  4, 2014
+date: 2014-03-04 14:28:18
+---
+
+![mardi gras]({{ site.url }}/assets/mardigras.jpg)
+
+* [‘True Detective’: Taking Jumper Cables to the Plot in ‘After You’ve Gone’](http://grantland.com/hollywood-prospectus/true-detective-taking-jumper-cables-to-the-plot-in-after-youve-gone/)
+* [Robert Ashley, 1930-2014](http://www.artsjournal.com/postclassic/2014/03/robert-ashley-1930-2014.html)
+* [Green Bullets](http://designandviolence.moma.org/green-bullets-u-s-military/)
+* [True Detective and the Dilemma of the Dead Woman’s Photograph](http://www.complex.com/pop-culture/2014/02/true-detective-and-the-dead-womans-photograph)
+* [Vice/Virtue Water Glass Series: Dispensary, Exhaust, and Fountain](http://designandviolence.moma.org/vicevirtue-water-glass-series-dispensary-exhaust-and-fountain-diller-scofidio/)
+* [Jaywalk This Way](http://www.city-journal.org/2014/eon0124ng.html)
