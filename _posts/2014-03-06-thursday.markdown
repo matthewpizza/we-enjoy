@@ -4,7 +4,7 @@ title: Thursday, March  6, 2014
 date: 2014-03-06 14:12:10
 ---
 
-![]({{ site.url }}/assets/)
+![Aqueduct]({{ site.url }}/assets/aqueduct.jpg)
 
 * [American Aqueduct: The Great California Water Saga - The Atlantic](http://www.theatlantic.com/features/archive/2014/02/american-aqueduct-the-great-california-water-saga/284009/)
 * [Why Jason Collins’s Seamless Return Couldn’t Happen in Any Other Sport](http://www.gq.com/blogs/the-feed/2014/02/jason-collins-brooklyn-nets-signing.html)
