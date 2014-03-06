@@ -1,0 +1,14 @@
+---
+layout: post
+title: Thursday, March  6, 2014
+date: 2014-03-06 14:12:10
+---
+
+![]({{ site.url }}/assets/)
+
+* [American Aqueduct: The Great California Water Saga - The Atlantic](http://www.theatlantic.com/features/archive/2014/02/american-aqueduct-the-great-california-water-saga/284009/)
+* [Why Jason Collins’s Seamless Return Couldn’t Happen in Any Other Sport](http://www.gq.com/blogs/the-feed/2014/02/jason-collins-brooklyn-nets-signing.html)
+* [Meet The Awl](http://www.theawl.com/2014/03/meet-the-awl)
+* [The New York Knicks: It’s the Hope That Kills You in the End](http://grantland.com/the-triangle/the-new-york-knicks-its-the-hope-that-kills-you-in-the-end/)
+* [‘We Were About Half a Mile From Shore, Naked and Drunk to a Man’](http://www.nytimes.com/2014/02/23/magazine/nell-freudenberger.html)
+* [No More Forever Projects](https://the-pastry-box-project.net/diana-kimball/2014-march-5)
