@@ -1,0 +1,14 @@
+---
+layout: post
+title: Tuesday, March 11, 2014
+date: 2014-03-11 15:02:41
+---
+
+![Griffith Park]({{ site.url }}/assets/griffith.jpg)
+
+* [LA Aerials](http://imgur.com/a/CrtOU)
+* [Between Two Ferns with Zach Galifianakis: President Barack Obama](http://www.funnyordie.com/videos/18e820ec3f/between-two-ferns-with-zach-galifianakis-president-barack-obama)
+* [Designing for The Grand Budapest Hotel](http://creativereview.co.uk/cr-blog/2014/march/grand-budapest-hotel)
+* [Another Model Comes Forward With Horrible Terry Richardson Allegations](http://jezebel.com/another-model-comes-forward-with-horrible-terry-richard-1540412871)
+* [Device-Agnostic](http://trentwalton.com/2014/03/10/device-agnostic/)
+* [Personal Voyages and Space-time Odysseys: Rethinking ‘Cosmos’ for 2014](http://grantland.com/hollywood-prospectus/personal-voyages-and-spacetime-odysseys-rethinking-cosmos-for-2014/)
