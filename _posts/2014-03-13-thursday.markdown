@@ -1,0 +1,14 @@
+---
+layout: post
+title: Thursday, March 13, 2014
+date: 2014-03-13 12:48:08
+---
+
+![White Rainbow]({{ site.url }}/assets/whiterainbow.jpg)
+
+* [White Rainbow On... White Rainbow](http://www.self-titledmag.com/2014/02/21/white-rainbow-on-white-rainbow/)
+* [Phil Jackson’s Job: Sprinkle His Title Dust on the NBA’s Most Hopeless Franchise](http://www.gq.com/blogs/the-feed/2014/03/phil-jackson-knicks-decision.html)
+* [Moving from CodeKit to Grunt Watch + LiveReload for Real-time JavaScript/LESS/SASS Compilation](http://justinklemm.com/grunt-watch-livereload-javascript-less-sass-compilation/)
+* [Continuing the Task of Translation: Narratives and Design Studies](http://adht.parsons.edu/designstudies/2014/03/10/continuing-the-task-of-translation-narratives-and-design-studies/)
+* [North Korea: UN Should Act on Atrocities Report](http://www.hrw.org/news/2014/02/17/north-korea-un-should-act-atrocities-report)
+* [The Dalai Lama Has Endorsed Gay Marriage](http://talkingpointsmemo.com/livewire/dalai-lama-gay-marriage)
