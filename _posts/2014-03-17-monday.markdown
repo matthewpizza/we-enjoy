@@ -1,0 +1,14 @@
+---
+layout: post
+title: Monday, March 17, 2014
+date: 2014-03-17 14:30:02
+---
+
+![BIG BANG MOFOS!]({{ site.url }}/assets/inflation.jpg)
+
+* [Detection of Waves in Space Buttresses Landmark Theory of Big Bang](http://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html)
+* [Julie Ann Horvath Describes Sexism And Intimidation Behind Her GitHub Exit](http://techcrunch.com/2014/03/15/julie-ann-horvath-describes-sexism-and-intimidation-behind-her-github-exit/)
+* [U.S. to Cede Its Oversight of Addresses on Internet](http://www.nytimes.com/2014/03/15/technology/us-to-give-up-role-in-internet-domain-names.html)
+* [Nasa-funded study: industrial civilisation headed for ‘irreversible collapse’?](http://www.theguardian.com/environment/earth-insight/2014/mar/14/nasa-civilisation-irreversible-collapse-study-scientists)
+* [Income Gap, Meet the Longevity Gap](http://www.nytimes.com/2014/03/16/business/income-gap-meet-the-longevity-gap.html)
+* [Prisoner’s 39-Panel Allegorical Mural Made From Bedsheets, Hair Gel and Stacks of Newspapers](http://prisonphotography.org/2014/03/05/prisoners-39-panel-allegorical-mural-made-from-bedsheets-hair-gel-and-stacks-of-newspapers/)
