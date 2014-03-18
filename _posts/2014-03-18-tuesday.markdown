@@ -1,0 +1,14 @@
+---
+layout: post
+title: Tuesday, March 18, 2014
+date: 2014-03-18 13:19:39
+---
+
+![ancient moss]({{ site.url }}/assets/moss.jpg)
+
+* [Ancient Moss Revived After Ages on Ice](http://news.nationalgeographic.com/news/2014/03/140317-ancient-moss-frozen-life-biology-science/)
+* [Employment Risk](http://amystephen.github.io/feminism/2014/03/17/employment-risk/)
+* [Elegy for a Country’s Seasons by Zadie Smith](http://www.nybooks.com/articles/archives/2014/apr/03/elegy-countrys-seasons/)
+* [What Your Culture Really Says](https://medium.com/about-work/e8ab06c3b75f)
+* [100 serial rapists identified after Detroit finally processes untested rape kits](http://feministing.com/2014/03/17/100-serial-rapists-identified-after-detroit-finally-processes-untested-rape-kits/)
+* [managers are awesome / managers are cool when they’re part of your team](http://mike.teczno.com/notes/on-managers.html)
