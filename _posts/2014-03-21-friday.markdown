@@ -1,0 +1,14 @@
+---
+layout: post
+title: Friday, March 21, 2014
+date: 2014-03-21 14:42:23
+---
+
+![Westboro Baptists]({{ site.url }}/assets/WestboroBaptistsCryptic.png)
+
+* [YOU’LL NEVER BELIEVE WHAT FONT THE WESTBORO BAPTISTS USE](http://blogs.walkerart.org/design/2014/03/21/westboro-baptist-church-typeface/)
+* [Re: Last call comments on CSS3 module: color from Alex Sexton on 2014-03-13](http://lists.w3.org/Archives/Public/www-style/2014Mar/0272.html)
+* [The CIA impunity challenge](http://america.aljazeera.com/opinions/2014/3/cia-torture-feinsteininterrogationimpunity.html)
+* [A Milder March for Champion Baptist College Basketball](http://www.newyorker.com/online/blogs/sportingscene/2014/03/champion-baptist-college-basketball-march-mildness.html)
+* [Gender-specific books demean all our children. So the Independent on Sunday will no longer review anything marketed to exclude either sex](http://www.independent.co.uk/voices/comment/genderspecific-books-demean-all-our-children-so-the-independent-on-sunday-will-no-longer-review-anything-marketed-to-exclude-either-sex-9194694.html)
+* [The Internet, where languages go to die?](http://america.aljazeera.com/opinions/2014/3/language-linguisticstechnologyinternetdigitaldivideicann.html)
