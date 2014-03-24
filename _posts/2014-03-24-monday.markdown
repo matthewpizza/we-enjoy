@@ -1,0 +1,14 @@
+---
+layout: post
+title: Monday, March 24, 2014
+date: 2014-03-24 14:54:16
+---
+
+![The Meditation Room]({{ site.url }}/assets/meditation-room.jpg)
+
+* [Arena’s Meditation Room Raises Its Own Existential Questions](http://www.nytimes.com/2014/03/21/sports/arenas-meditation-room-raises-its-own-existential-questions.html)
+* [What Pakistan Knew About Bin Laden](http://www.nytimes.com/2014/03/23/magazine/what-pakistan-knew-about-bin-laden.html)
+* [To Russia With Love](https://medium.com/p/175bec3dbcd5)
+* [A critique of social practice art](http://isreview.org/issue/90/critique-social-practice-art)
+* [How an Under-Appreciated iOS 7 Feature Will Change the World](http://www.cultofmac.com/271225/appreciated-ios-7-feature-will-change-world/)
+* [How Animals See the World](http://nautil.us/issue/11/light/how-animals-see-the-world)
