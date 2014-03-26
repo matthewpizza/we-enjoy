@@ -18,7 +18,7 @@ popd > /dev/null
 cd "$DIR"/../assets/_
 
 # find file modified today
-for file in $(find . -type f  \( -iname \*.png -o -iname \*.jpg -o -iname \*.jpeg -o -iname \*.gif \)); do
+for file in $(find . -type f -newermt $(date +"%Y-%m-%d") \( -iname \*.png -o -iname \*.jpg -o -iname \*.jpeg -o -iname \*.gif \)); do
 	# echo $file
 	echo ${file##./}
 
