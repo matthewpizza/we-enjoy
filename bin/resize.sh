@@ -1,6 +1,13 @@
 #!/bin/bash
 
+# function exists check
+is_function() {
+    declare -f -F $1 > /dev/null
+    return $?
+}
+
 echo "Resize new images"
+sleep 0.5
 
 # where are we
 pushd `dirname $0` > /dev/null
@@ -11,29 +18,38 @@ popd > /dev/null
 cd "$DIR"/../assets/_
 
 # find file modified today
-for f in $(find . -type f -newermt $(date +"%Y-%m-%d") \( -iname \*.png -o -iname \*.jpg -o -iname \*.jpeg -o -iname \*.gif \)); do
-	echo $f
+for file in $(find . -type f  \( -iname \*.png -o -iname \*.jpg -o -iname \*.jpeg -o -iname \*.gif \)); do
+	# echo $file
+	echo ${file##./}
 
 	# copy to parent assets directory
-	cp $f ../$f
+	# cp $file ../$file
 
 	# get image width
-	w=$( mdls "$f" | grep kMDItemPixelWidth | tail -n1 | cut -d= -f2 )
-
-	echo $w
+	# w=$( mdls "$file" | grep kMDItemPixelWidth | tail -n1 | cut -d= -f2 )
 
 	# if larger than 500px wide
-	if (("$w" > 500)); then
-		# resize the copied file to 500px wide
-		sips --resampleWidth 500 ../$f
-	fi
+	# if (("$w" > 500)); then
+		# sips is super lossy
+		# sips --resampleWidth 500 ../$file
+	# fi
 	
 	# if cli imageOptim is installed
 	# https://github.com/JamieMason/ImageOptim-CLI
 	# if [ "$(type -t imageOptim)" = "file" ]; then
-		# imageOptim --jpeg-mini --image-alpha --quit --directory ../$f
+		# imageOptim --jpeg-mini --image-alpha --quit --directory ../$file
 	# fi
-	open -a ImageOptim ../$f
+
+
+	# resize to 500px with image magick
+	# save to parent assets directory
+	convert \
+		$file \
+		-coalesce \
+		-resize 500 \
+		../$file
+
+	open -a ImageOptim ../$file
 done
 
 cd ../..
