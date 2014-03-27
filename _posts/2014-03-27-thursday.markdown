@@ -1,0 +1,14 @@
+---
+layout: post
+title: Thursday, March 27, 2014
+date: 2014-03-27 10:15:36
+---
+
+![Wu-Tang Clan]({{ site.url }}/assets/wu-tang.jpg)
+
+* [Why Wu-Tang Will Release Just One Copy Of Its Secret Album](http://www.forbes.com/sites/zackomalleygreenburg/2014/03/26/why-wu-tang-will-release-just-one-copy-of-its-secret-album/)
+* [Quakers mark 50 years since gay rights affirmation](http://www.theguardian.com/books/2013/sep/13/quakers-50-years-affirmation-gay-rights)
+* [Peek in Pi](http://fathom.info/pi)
+* [EMOJI](http://graphics.wsj.com/emoji/)
+* [Rave Benny Hill](https://www.youtube.com/watch?v=tGgptviHt0Q)
+* [This](http://vimeo.com/channels/staffpicks/89527215) [is a Generic Brand Video.](http://www.mcsweeneys.net/articles/this-is-a-generic-brand-video)
