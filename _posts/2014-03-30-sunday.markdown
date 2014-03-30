@@ -1,0 +1,14 @@
+---
+layout: post
+title: Sunday, March 30, 2014
+date: 2014-03-30 09:24:09
+---
+
+![oil spill map]({{ site.url }}/assets/oil-spill-map.png)
+
+* [Process post: how to make a giant oil spill map the hard way](http://bizweekgraphics.tumblr.com/post/80721165019/process-post-how-to-make-a-giant-oil-spill-map-the)
+* [Hack: a new programming language for HHVM](https://code.facebook.com/posts/264544830379293/hack-a-new-programming-language-for-hhvm/)
+* [Notes on accessibility of Web Components](http://www.brucelawson.co.uk/2014/notes-on-accessibility-of-web-components/)
+* [Responsive Screenshots With Casper](http://code.tutsplus.com/tutorials/responsive-screenshots-with-casper--net-33142)
+* [Goodbye, Firefox Marketplace](http://www.teamrarebit.com/blog/2014/03/24/goodbye_firefox_marketplace/)
+* [Mozilla employees tell Brendan Eich he needs to “step down”](http://arstechnica.com/business/2014/03/mozilla-employees-to-brendan-eich-step-down/)
