@@ -1,0 +1,14 @@
+---
+layout: post
+title: Tuesday, April  1, 2014
+date: 2014-04-01 08:31:59
+---
+
+[![Young Thug]({{ site.url }}/assets/youngthug.jpg)](http://camkirk.tumblr.com/tagged/Young-Thug)
+
+* [How Young Thug Got Trapped By A $15,000 Advance From A Major Label](http://www.buzzfeed.com/naomizeichner/young-thug-trapped-major-label-deal)
+* [How Dropbox Knows When You’re Sharing Copyrighted Stuff (Without Actually Looking At Your Stuff)](http://techcrunch.com/2014/03/30/how-dropbox-knows-when-youre-sharing-copyrighted-stuff-without-actually-looking-at-your-stuff/)
+* [Understanding the #CancelColbert Campaign](http://www.newyorker.com/online/blogs/newsdesk/2014/03/twitter-campaign-to-cancel-colbert-report.html)
+* [The Politics of Emojis](http://www.nationaljournal.com/tech/the-politics-of-emojis-20140327)
+* [Generation Why? by Zadie Smith](http://www.nybooks.com/articles/archives/2010/nov/25/generation-why/)
+* [Land ministry: 62% of Japan will be uninhabited by 2050](http://ajw.asahi.com/article/business/AJ201403290055)
