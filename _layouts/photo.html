@@ -1,0 +1,16 @@
+{% include header.html %}
+
+	<article class="hentry">
+		<h2>{{ page.title }}</h2>
+
+		{% if page.source != empty %}
+			<a href="{{ page.source }}">
+				<img src="{{ page.photo | prepend: site.url }}" alt="{{ page.alt }}">
+			</a>
+		{% else %}
+			<img src="{{ page.photo | prepend: site.url }}" alt="{{ page.alt }}">
+		{% endif %}
+		{{ page.content }}
+	</article>
+
+{% include footer.html %}
