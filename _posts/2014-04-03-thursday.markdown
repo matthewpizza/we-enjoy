@@ -1,0 +1,14 @@
+---
+layout: post
+title: Thursday, April  3, 2014
+date: 2014-04-03 12:52:52
+---
+
+![Adelson]({{ site.url }}/assets/adelson.jpg)
+
+* [How The Supreme Court Just Legalized Money Laundering By Rich Campaign Donors](http://thinkprogress.org/justice/2014/04/02/3422036/how-the-supreme-court-just-legalized-money-laundering-by-rich-campaign-donors/)
+* [More Than Corruption Threatens the Integrity of Our Democracy](http://prospect.org/article/more-corruption-threatens-integrity-our-democracy)
+* [Highlights from Justice Breyer’s McCutcheon Dissent](http://blogs.wsj.com/law/2014/04/02/highlights-from-justice-breyers-mccutcheon-dissent/)
+* [Debunking the pathology of poverty](http://america.aljazeera.com/opinions/2014/3/culture-of-povertysocialwelfarepaulryanaffluenza.html)
+* [Graduate Students on Strike](https://www.jacobinmag.com/2014/04/graduate-students-on-strike/)
+* [Mozilla CEO insists he won’t resign over ‘private’ opposition to Prop 8](http://www.theguardian.com/technology/2014/apr/01/mozilla-ceo-brendan-eich-refuses-to-quit)
