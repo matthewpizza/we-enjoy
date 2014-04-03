@@ -1,0 +1,14 @@
+---
+layout: post
+title: Tuesday, July 19, 2011
+date: 2011-07-19 09:00:00
+---
+
+![Borders]({{ site.url }}/assets/borders.jpg)
+
+* [Borders Forced to Liquidate, Close All Stores](http://online.wsj.com/article/SB10001424052702303661904576454353768550280.html)
+* [Experimental Relationship](http://www.themorningnews.org/gallery/experimental-relationship)
+* [Annoyed](http://www.full-stop.net/2011/07/18/blog/morganmacgregor/annoyed/)
+* [Miranda July Is Totally Not Kidding](http://www.nytimes.com/2011/07/17/magazine/the-make-believer.html?pagewanted=all)
+* [“Tradition is produced by the innovators who keep it alive.”](http://soulellis.com/2011/07/matthew_carter/)
+* [Responsive web design](http://www.lukejones.me/post/6651505197/responsive-web-design)

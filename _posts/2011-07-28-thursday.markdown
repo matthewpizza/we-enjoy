@@ -1,0 +1,14 @@
+---
+layout: post
+title: Thursday, July 28, 2011
+date: 2011-07-28 09:00:00
+---
+
+![Book Suggestions]({{ site.url }}/assets/book-suggestions.png)
+
+* [The Staff Recommends turns book suggestions and advertorials into a potential business model](http://www.niemanlab.org/2011/07/the-staff-recommends-turns-book-suggestions-and-advertorials-into-a-potential-business-model/)
+* [Designing a big news site is about more than beauty](http://www.niemanlab.org/2011/07/designing-a-big-news-site-is-about-more-than-beauty/)
+* [New York City blackout of 1977](http://en.wikipedia.org/wiki/New_York_City_blackout_of_1977)
+* [Scary Movie Comics – The Shining](http://www.threewordphrase.com/shining.htm)
+* [In _The Future_, Miranda July Grows Up](http://www.villagevoice.com/2011-07-27/film/in-the-future-miranda-july-grows-up/)
+* [The Telling Story of a Once Faithful Google Apostle Saved by Vic Gundotra after Automated System Falsely Flags Account for Possessing Child Pornography](http://siliconangle.com/blog/2011/07/27/the-telling-story-of-a-once-faithful-google-apostle-saved-by-vic-gundotra-after-automated-system-falsely-flags-account-for-possessing-child-pornography/)

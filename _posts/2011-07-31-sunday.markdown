@@ -1,0 +1,16 @@
+---
+layout: post
+title: Sunday, July 31, 2011
+date: 2011-07-31 09:00:00
+---
+
+![High Five]({{ site.url }}/assets/high-five.jpg)
+
+* [The history and mystery of the high five](http://espn.go.com/espn/story/_/id/6813042/who-invented-high-five)
+* [We are the United States of America, the greatest country on earth. We don't default.](http://www.youtube.com/watch?v=U2Q52PwFVgE)
+* [Enjoy Park Greenery, City Says, but Not as Salad](http://www.nytimes.com/2011/07/30/nyregion/new-york-moves-to-stop-foraging-in-citys-parks.html)
+* [E-Reading Application Showdown, Part 2: Typography](http://www.digitalbookworld.com/2011/e-reading-application-showdown-part-2-typography/)
+* [Applied Math](http://www.futilitycloset.com/2008/07/09/applied-math/)
+* [Deadlines: The Cuban Missile Crisis and the Debt Ceiling](http://www.newyorker.com/online/blogs/newsdesk/2011/07/debt-ceiling-and-cuban-missile-crisis.html)
+* [Yesterday's ride, note to Tea Partiers](http://scripting.com/stories/2011/07/28/yesterdaysRideNoteToTeaPar.html)
+* [Way Too Much Portland](http://waytoomuchportland.tumblr.com/)

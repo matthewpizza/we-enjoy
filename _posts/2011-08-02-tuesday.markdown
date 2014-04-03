@@ -1,0 +1,16 @@
+---
+layout: post
+title: Tuesday, August 2, 2011
+date: 2011-08-02 09:00:00
+---
+
+![Garbage]({{ site.url }}/assets/nyc-garbage.jpg)
+
+* [New York City Garbage by Justin Gignac - Thank You for Littering.™](http://www.nycgarbage.com/)
+* [Braving Possible Poo, Hundreds Swim In East River](http://gothamist.com/2011/07/31/braving_possible_poo_hundreds_swim.php)
+* [How To Be An Anthro Girl](http://thisrecording.com/today/2011/8/1/in-which-we-finger-plush-towels.html)
+* [The Fine Print on the Debt Deal](http://fivethirtyeight.blogs.nytimes.com/2011/08/01/the-fine-print-on-the-debt-deal/)
+* [Appraisal](http://two.longshotmag.com/story/appraisal)
+* [Our Commitment to Trust & Safety](http://blog.airbnb.com/our-commitment-to-trust-and-safety)
+* [Book Review Clichés I’d Like To See](http://bygonebureau.com/2011/08/01/book-review-cliches/)
+* [An iOS Developer Takes on Android](http://nfarina.com/post/8239634061/ios-to-android)

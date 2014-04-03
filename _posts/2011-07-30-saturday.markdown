@@ -1,0 +1,15 @@
+---
+layout: post
+title: Saturday, July 30, 2011
+date: 2011-07-30 09:00:00
+---
+
+![Evelyn McHale]({{ site.url }}/assets/evelyn-mchale.jpg)
+
+* [Evelyn McHale](http://www.codex99.com/photography/43.html)
+* [The Nike ShoeZeum](http://www.doobybrain.com/2011/07/28/the-nike-shoezeum/)
+* [The Things We Make and Do](http://blog.braintraffic.com/2011/07/the-things-we-make-and-do/)
+* [World helium reserves are running out, Nobel laureate claims](http://www.telegraph.co.uk/science/science-news/7959624/World-helium-reserves-are-running-out-Nobel-laureate-claims.html)
+* [Something had to be done; it was hovering over a hundred degrees fahrenheit in New York.](http://blog.frankchimero.com/post/8180271938)
+* [A Word About Unsolicited Redesigns](http://www.subtraction.com/2011/07/28/unsolicited-redesigns)
+* [Tycho](http://www.harkavagrant.com/index.php?id=316)

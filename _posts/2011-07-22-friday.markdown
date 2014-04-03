@@ -1,0 +1,14 @@
+---
+layout: post
+title: Friday, July 22, 2011
+date: 2011-07-22 09:00:00
+---
+
+![Shaq]({{ site.url }}/assets/shaq.jpg)
+
+* [Make everything OK](http://make-everything-ok.com/)
+* [If your website's full of assholes, it's your fault](http://dashes.com/anil/2011/07/if-your-websites-full-of-assholes-its-your-fault.html)
+* [Apple Said to Consider Making Bid for Hulu](http://www.bloomberg.com/news/2011-07-21/apple-said-to-consider-making-an-offer-for-hulu-online-television-service.html)
+* [Heat Wave 2011 Pushes Power Grids Toward Capacity](http://abcnews.go.com/US/heat-dome-pushes-power-grids-capacity/story?id=14131788)
+* [In Bloomberg’s gay marriage lottery, every couple wins](http://www.nydailynews.com/ny_local/2011/07/21/2011-07-21_in_bloombergs_gay_marriage_lottery_every_couple_wins.html)
+* [Much Ado About Whatever](http://www.themorningnews.org/article/much-ado-about-whatever)

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Monday, July 25, 2011
+date: 2011-07-25 09:00:00
+---
+
+![Kathleen Hanna]({{ site.url }}/assets/kathleen-hanna.jpg)
+
+* [Kathleen Hanna: Start a Band Right Away](http://teenagefilm.com/archives/izzy-says/kathleen-hanna-start-a-band-right-away)
+* [Until Gotham No Longer Needs Batman](http://weblog.muledesign.com/2011/07/until_gotham_no_longer_needs_b.php)
+* [Dear Google, I would like to bring to your attention a few things before I disconnect permanently from all of your services.](http://www.twitlonger.com/show/bt5akp)
+* [The news coverage of the Norway mass-killings was fact-free conjecture](http://www.guardian.co.uk/commentisfree/2011/jul/24/charlie-brooker-norway-mass-killings)
+* [Chapter Sixteen: Danny's Ordeal](http://www.collativelearning.com/the%20shining%20-%20chap%2016.html)
+* [Consumers losing patience with the slow mobile web](http://www.reuters.com/article/2011/07/19/idUS40241718520110719)
+* [Hulu, Billed as Tomorrow’s TV, Looks Boxed In](http://www.nytimes.com/2011/07/24/business/media/hulu-billed-as-tomorrows-tv-looks-boxed-in-today.html?_r=3&ref=media&pagewanted=all)

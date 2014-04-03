@@ -1,0 +1,15 @@
+---
+layout: post
+title: Friday, July 29, 2011
+date: 2011-07-29 09:00:00
+---
+
+![Apple and Google]({{ site.url }}/assets/apple-google.jpg)
+
+* [The Auteur vs. the Committee](http://www.nytimes.com/2011/07/24/technology/what-apple-has-that-google-doesnt-an-auteur.html)
+* [Milgram experiement](http://en.wikipedia.org/wiki/Milgram_experiment)
+* [Unbound: The Crowdfunding Cargo Cult](http://www.sicanstudios.com/how-to-remove-php-html-htm-extensions-with-htaccess/)
+* [Futurama Head in a Jar](http://itunes.apple.com/us/app/futurama-head-in-a-jar/id435997883?mt=8)
+* [Spotify Playlists for Writers: Haruki Murakami](http://www.mediabistro.com/galleycat/spotify-playlists-for-writers-haruki-murakami_b34843)
+* [The Things We Make and Do](http://blog.braintraffic.com/2011/07/the-things-we-make-and-do/)
+* [Netflix Relief Fund with Jason Alexander](http://www.funnyordie.com/videos/15be7bfd8f/netflix-relief-fund-with-jason-alexander)

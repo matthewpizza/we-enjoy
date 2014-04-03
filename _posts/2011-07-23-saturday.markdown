@@ -1,0 +1,13 @@
+---
+layout: post
+title: Saturday, July 23, 2011
+date: 2011-07-23 09:00:00
+---
+
+![Hipster Lit]({{ site.url }}/assets/hipster-lit.jpg)
+
+* [Hamptons Hipsters](http://www.newyorker.com/online/blogs/books/2011/07/hamptons-hipsters.html)
+* [The Washington Post Owes the World an Apology for this Item](http://www.theatlantic.com/international/archive/2011/07/the-washington-post-owes-the-world-an-apology-for-this-item/242400/)
+* [27 Club](http://en.wikipedia.org/wiki/27_Club)
+* [Apps vs the Web](http://mattgemmell.com/2011/07/22/apps-vs-the-web)
+* [Best Beach & Sport Sunscreens](http://breakingnews.ewg.org/2011sunscreen/best-sunscreens/best-beach-sport-sunscreens/)

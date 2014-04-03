@@ -1,0 +1,16 @@
+---
+layout: post
+title: Tuesday, July 26, 2011
+date: 2011-07-26 09:00:00
+---
+
+![Apple Store]({{ site.url }}/assets/apple-store.jpg)
+
+* [First Glimpse of Apple’s Plans for Grand Central Terminal](http://blogs.wsj.com/metropolis/2011/07/25/apple-store-in-grand-centra-terminal/)
+* [California Lite](http://www.pwelverumandsun.com/elv023)
+* [The slow-motion disaster of the food crisis in the Horn of Africa is truly horrifying.](http://staff.tumblr.com/post/8052225133/the-slow-motion-disaster-of-the-food-crisis-in-the)
+* [Make a Local Backup Of Your Gmail Account](http://howto.wired.com/wiki/Make_a_Local_Backup_Of_Your_Gmail_Account)
+* [Home Movies on Netflix](http://movies.netflix.com/WiMovie/Home_Movies/70155577)
+* [Why Google cares if you use your real name](http://scripting.com/stories/2011/07/25/whyGoogleCaresIfYouUseYour.html)
+* [Cults](http://cults.bandcamp.com/)
+* [We have ham radios: Merlin Mann on media, fear, and caring about what you make](http://colinmarshall.libsyn.com/we-have-ham-radios-merlin-mann-on-media-fear-and-caring-about-what-you-make)
