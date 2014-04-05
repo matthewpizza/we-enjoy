@@ -9,7 +9,7 @@ pushd `dirname $0` > /dev/null
 popd > /dev/null
 
 # filename, today, example 2013-11-13-wednesday
-post_file="$DIR"/_posts/$(date +"%Y-%m-%d-%A").markdown
+post_file="$DIR"/_posts/$(date +"%Y-%m-%d-%A").md
 
 # lowercase string, date function returns first upper
 post_file="$(tr [A-Z] [a-z] <<< "$post_file")"
