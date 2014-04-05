@@ -6,11 +6,25 @@ title: We Enjoy
 <div id="main">
 
 	<section>
-	{% for post in paginator.posts %}
+	{% for page in paginator.posts %}
+
 		<article class="hentry">
-			<h2><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%A, %B %d, %Y"}}</a></h2>
-			{{ post.content }}
+			<h2><a href="{{ site.url }}{{ page.url }}">{{ page.date | date: "%A, %B %d, %Y"}}</a></h2>
+
+
+			{% if page.photo %}
+				{% if page.source %}
+					<a href="{{ page.source }}" target="_blank">
+						<img src="{{ site.url }}/assets/{{ page.photo }}" alt="{{ page.alt }}">
+					</a>
+				{% else %}
+					<img src="{{ site.url }}/assets/{{ page.photo }}" alt="{{ page.alt }}">
+				{% endif %}
+			{% endif %}
+
+			{{ page.content | markdownify }}
 		</article>
+
 	{% endfor %}
 	</section>
 
