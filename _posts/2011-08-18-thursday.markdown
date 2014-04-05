@@ -1,0 +1,16 @@
+---
+layout: post
+title: Thursday, August 18, 2011
+date: 2011-08-18 09:00:00
+---
+
+![Borders closing]({{ site.url }}/assets/borders-closing.jpg)
+
+* [Goodbye Borders: We’ll Miss You?](http://www.newyorker.com/online/blogs/books/2011/08/goodbye-borders-well-miss-you.html)
+* [BookLamp Launches a Pandora For Books](http://mashable.com/2011/08/16/booklamp-launches-book-recommendation-engine/)
+* [The average color of the New York sky, updated every 5 minutes.](http://nskyc.com/)
+* [The City Scout](http://thecityscout.net/)
+* [Episode 109: The Icebreaker Episode (2nd Ed.)](http://www.publicradio.org/columns/dinnerpartydownload/2011/08/episode-109-the-2nd-annual-icebreaker-show.html)
+* [The Classical](http://www.kickstarter.com/projects/101341727/the-classical)
+* [The Manual is a new, beautifully crafted journal that takes a fresh look, in print, at design on the web.](http://alwaysreadthemanual.com/)
+* [Swoosh: 40 Years Fly By](http://imprint.printmag.com/branding/swoosh-40-years-fly-by/)

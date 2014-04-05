@@ -1,0 +1,14 @@
+---
+layout: post
+title: Sunday, August 14, 2011
+date: 2011-08-14 09:00:00
+---
+
+![in NYC]({{ site.url }}/assets/in-nyc.jpg)
+
+* [Here Is Everything I Learned in New York City](http://www.themorningnews.org/article/here-is-everything-i-learned-in-new-york)
+* [The Hijacked Crisis](http://www.nytimes.com/2011/08/12/opinion/the-hijacked-crisis.html)
+* [New Farmers Markets Provide Health, Jobs Boost](http://www.good.is/post/new-farmers-markets-provide-health-jobs-boost/)
+* [Easy Image Stabilizer For Any Camera - Photography Trick](http://www.youtube.com/watch?v=LLlJl7TbXTA)
+* [Going Flash-Free on Mac OS X, and How to Cheat When You Need It](http://daringfireball.net/2010/11/flash_free_and_cheating_with_google_chrome)
+* [Why Ad Blocking is devastating to the sites you love](http://arstechnica.com/business/news/2010/03/why-ad-blocking-is-devastating-to-the-sites-you-love.ars)

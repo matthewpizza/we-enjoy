@@ -1,0 +1,16 @@
+---
+layout: post
+title: Tuesday, August 16, 2011
+date: 2011-08-16 09:00:00
+---
+
+![Borders People]({{ site.url }}/assets/borders-people.jpg)
+
+* [The Day Borders Got the Wobblies](http://www.themorningnews.org/article/the-day-borders-got-the-wobblies)
+* [London Postcard: Punishment and Punditry](http://www.newyorker.com/online/blogs/newsdesk/2011/08/london-postcard-punishment-and-punditry.html)
+* [“Shame on you Huffington Post. Educate yourselves about spec work and the value of design. You are devaluing design with this competition. Please put a stop to it.”](http://www.huffingtonpost.com/2011/08/01/huffington-post-politics-icon-contest_n_915374.html)
+* [Dear Gap, I have your new logo.](http://weblog.muledesign.com/2010/10/dear_gap_i_have_your_new_logo.php)
+* [Muppets: The Green Album](http://www.npr.org/2011/08/14/138984517/first-listen-muppets-the-green-album#playlist)
+* [Google, Motorola, and a Patent War](http://www.newyorker.com/online/blogs/newsdesk/2011/08/google-motorola-and-a-patent-war.html)
+* [Rope-A-Dope, Indeed](http://parislemon.com/post/8964980217/rope-a-dope-indeed)
+* [Groupon Panic: Is It Insolvent—and Could IPO Get Pulled?](http://launch.is/blog/groupon-panic-is-it-insolvent-and-could-ipo-get-pulled.html)

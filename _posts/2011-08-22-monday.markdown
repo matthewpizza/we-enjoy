@@ -1,0 +1,12 @@
+---
+layout: post
+title: Monday, August 22, 2011
+date: 2011-08-22 09:00:00
+---
+
+![Mars]({{ site.url }}/assets/nasa-mars.jpg)
+
+* [NASA Mars Science Laboratory + Curiosity Rover](http://boingboing.net/2011/04/06/nasa-mars-science-la.html)
+* [What Would Hillary Clinton Have Done?](http://www.nytimes.com/2011/08/21/magazine/what-would-hillary-clinton-have-done.html?pagewanted=all)
+* [Historic Ellis Island Ferry](http://www.flickr.com/photos/vwmang/sets/72157627318631019/with/5930270949/)
+* [List of fictional books from non-print media](http://en.wikipedia.org/wiki/List_of_fictional_books_from_non-print_media)

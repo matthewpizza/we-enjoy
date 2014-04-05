@@ -1,0 +1,15 @@
+---
+layout: post
+title: Saturday, August 13, 2011
+date: 2011-08-13 09:00:00
+---
+
+![asgarda]({{ site.url }}/assets/asgarda.png)
+
+* [Asgarda Power](http://teenagefilm.com/archives/youth-happenings/asgarda-power/)
+* [Republican Debate: Dog Food, Mushrooms, and Minnesota Nice](http://www.newyorker.com/online/blogs/closeread/2011/08/republican-debate-dog-food-mushrooms-minnesota-nice.html)
+* [What Comes After Reading on iPad](http://www.subtraction.com/2011/08/10/what-comes-after-reading-on-ipad)
+* [Design at Tumblr](http://blog.petervidani.com/post/8824207574)
+* [City’s Cable Deals Will Bring Wi-Fi to 32 Parks](http://cityroom.blogs.nytimes.com/2011/08/10/citys-cable-deals-will-bring-wi-fi-to-32-parks/)
+* [The Transformation of Michele Bachmann](http://www.newyorker.com/reporting/2011/08/15/110815fa_fact_lizza)
+* [Ebooks, pricing and utility](http://chipotle.tumblr.com/post/8828340537/ebooks-pricing-and-utility)

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Friday, August 12, 2011
+date: 2011-08-12 09:00:00
+---
+
+![pencils]({{ site.url }}/assets/pencils.jpg)
+
+* [Fred’s Pencils](http://fredspencils.wordpress.com/)
+* [Kindle Cloud Reader](https://read.amazon.com/)
+* [2011/06 CreativeMornings with Jim Coudal](http://vimeo.com/26133811)
+* [Rudolf Brazda, Who Survived Pink Triangle, Is Dead at 98](http://www.nytimes.com/2011/08/06/world/europe/06brazda.html)
+* [Polaroid’s SX-70: The Art and Science of the Nearly Impossible](http://technologizer.com/2011/06/08/polaroid/)
+* [Dan Harmon, Being a (in my opinion) very succesful and skilled writer, what advice would you give to others who aspire to write a TV series comedy, and just write in general...](http://danharmon.tumblr.com/post/8775963147/dan-harmon-being-a-in-my-opinion-very-succesful)

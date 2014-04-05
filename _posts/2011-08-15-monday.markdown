@@ -1,0 +1,15 @@
+---
+layout: post
+title: Monday, August 15, 2011
+date: 2011-08-15 09:00:00
+---
+
+![Apple Campus]({{ site.url }}/assets/apple-campus.jpg)
+
+* [Apple Campus in Cupertino by Foster + Partners](http://hypebeast.com/2011/08/apple-campus-in-cupertino-by-foster-partners/)
+* [Google Buys Motorola Mobility For $12.5B, Says “Android Will Stay Open”](http://techcrunch.com/2011/08/15/breaking-google-buys-motorola-for-12-5-billion/)
+* [Stop Coddling the Super-Rich](http://www.nytimes.com/2011/08/15/opinion/stop-coddling-the-super-rich.html)
+* [Steven Poole: Goodbye, cruel Word](http://stevenpoole.net/blog/goodbye-cruel-word/)
+* [Adobe Muse: a step in the wrong direction](http://elliotjaystocks.com/blog/adobe-muse-a-step-in-the-wrong-direction/)
+* [Kevin Durant is Winning the NBA Lockout](http://www.gq.com/sports/profiles/201108/kevin-durant-nba-lockout-lebron-james)
+* [Feral Capitalism Hits the Streets](http://davidharvey.org/2011/08/feral-capitalism-hits-the-streets/)

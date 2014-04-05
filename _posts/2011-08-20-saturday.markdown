@@ -1,0 +1,14 @@
+---
+layout: post
+title: Saturday, August 20, 2011
+date: 2011-08-20 09:00:00
+---
+
+![Joan Didion]({{ site.url }}/assets/joan-didion.jpg)
+
+* [California Girls, Zan Romanoff](http://www.theparisreview.org/blog/2011/08/18/california-girls/)
+* [Chrome and Safari extension to rehabilitate disruptive footnotes.](http://openideas.ideon.co/2011/rehabilitate-disruptive-footnotes)
+* [Adapted](http://simplebits.com/notebook/2011/08/19/adapted/)
+* [What they're "protecting" us from](http://dashes.com/anil/2011/08/what-theyre-protecting-us-from.html)
+* [Red Hot Chili Peppers: The band that couldn't be stopped](http://www.guardian.co.uk/music/2011/aug/18/red-hot-chili-peppers-interview)
+* [Freedom, Variety & Pickup Parties: Wen-Jay Ying Serves Up Local Roots – A New Kind of CSA](http://nonabrooklyn.com/freedom-variety-pickup-parties-wen-jay-ying-serves-up-local-roots-a-new-kind-of-csa/)

@@ -1,0 +1,14 @@
+---
+layout: post
+title: Friday, August 19, 2011
+date: 2011-08-19 09:00:00
+---
+
+![bicycles]({{ site.url }}/assets/dutch-bicycles.jpg)
+
+* [The Dutch Way: Bicycles and Fresh Bread](http://www.nytimes.com/2011/07/31/opinion/sunday/the-dutch-way-bicycles-and-fresh-bread.html)
+* [Parents’ Minor Marijuana Arrests Lead to Child Neglect Cases](http://www.nytimes.com/2011/08/18/nyregion/parents-minor-marijuana-arrests-lead-to-child-neglect-cases.html)
+* [Lessons From the End of the Free Starbucks Card Experiment](http://www.good.is/post/lessons-from-the-end-of-the-free-for-all-starbucks-card-experiment/)
+* [Back to the Future Co-Creator Bob Gale Explains How Marty and Doc Became Friends](http://www.mentalfloss.com/blogs/archives/97285)
+* [Brutal New York - 1965/95](http://www.skyscrapercity.com/showthread.php?t=402544)
+* [webOS is dead, long live webOS](http://www.quirksmode.org/blog/archives/2011/08/webos_is_dead_l.html)
