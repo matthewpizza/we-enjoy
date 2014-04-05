@@ -1,0 +1,14 @@
+---
+layout: post
+title: Saturday, August 6, 2011
+date: 2011-08-06 09:00:00
+---
+
+![truck driver]({{ site.url }}/assets/truck-driver.jpg)
+
+* [That truck driver you flipped off? Let me tell you his story.](http://www.startribune.com/opinion/otherviews/126619568.html)
+* [Fox Orders 13-Episode Sequel To Carl Sagan's 'Cosmos' Docu-Series With Seth MacFarlane Producing For 2013 Launch](http://www.deadline.com/2011/08/fox-orders-13-episode-sequel-to-carl-sagans-cosmos-docu-series-to-be-produced-by-seth-macfarlane-for-2013-launch/)
+* [pocketfaces](http://www.flickr.com/photos/dermodernemann/sets/72157624428056962/detail/)
+* [Why Apple Doesn’t Talk, Vol. 2: Google CLO David Drummond](http://www.appleoutsider.com/2011/08/05/wadt2/)
+* [More on Google and Patents](http://daringfireball.net/2011/08/more_on_google_and_patents)
+* [Close Read: What Was Just Downgraded?](http://www.newyorker.com/online/blogs/closeread/2011/08/what-was-just-downgraded.html)

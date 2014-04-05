@@ -1,0 +1,14 @@
+---
+layout: post
+title: Friday, August 5, 2011
+date: 2011-08-05 09:00:00
+---
+
+![Hand Case]({{ site.url }}/assets/hand-case.jpg)
+
+* [Dokkiri Hand Case for iPhone 4](http://www.strapya-world.com/products/45835.html)
+* [Public Views Congress as Top Culprit in Debt Debate, Poll Finds](http://www.nytimes.com/2011/08/05/us/politics/05poll.html)
+* [Of Another Fashion](http://ofanotherfashion.tumblr.com/)
+* [Food & Freedom Rides](http://liverealnow.weebly.com/food--freedom-rides.html)
+* [Privacy and social media investigation: how I tracked down an entire family from one tweet](http://www.joannageary.com/2011/08/02/privacy-and-social-media-investigation-how-i-tracked-down-an-entire-family-from-one-tweet/)
+* [What the NYC startup world needs (and doesn’t need)](http://cdixon.org/2011/08/02/what-the-nyc-startup-world-needs-and-doesnt-need/)

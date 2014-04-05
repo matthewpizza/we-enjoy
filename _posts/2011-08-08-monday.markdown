@@ -1,0 +1,14 @@
+---
+layout: post
+title: Monday, August 8, 2011
+date: 2011-08-08 09:00:00
+---
+
+![Obama’s Passion]({{ site.url }}/assets/obamas-passion.jpg)
+
+* [What Happened to Obama’s Passion?](http://www.nytimes.com/2011/08/07/opinion/sunday/what-happened-to-obamas-passion.html)
+* [Scientists Discover That Antimicrobial Wipes and Soaps May Be Making You (and Society) Sick](http://blogs.scientificamerican.com/guest-blog/2011/07/05/scientists-discover-that-antimicrobial-wipes-and-soaps-may-be-making-you-and-society-sick/)
+* [S&P and the USA](http://krugman.blogs.nytimes.com/2011/08/05/sp-and-the-usa/)
+* [Why S&P Has No Business Downgrading the U.S.](http://robertreich.org/post/8542550924)
+* [Facebook will destroy your children's brains](http://www.guardian.co.uk/science/the-lay-scientist/2011/aug/01/1)
+* [The Trivialities and Transcendence of Kickstarter](http://www.nytimes.com/2011/08/07/magazine/the-trivialities-and-transcendence-of-kickstarter.html)

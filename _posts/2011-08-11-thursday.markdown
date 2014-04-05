@@ -1,0 +1,15 @@
+---
+layout: post
+title: Thursday, August 11, 2011
+date: 2011-08-11 09:00:00
+---
+
+![fire jump]({{ site.url }}/assets/fire-jump.jpg)
+
+* [Taking flight from flames in a leap of faith](http://www.smh.com.au/world/taking-flight-from-flames-in-a-leap-of-faith-20110809-1ikx5.html)
+* [Branding 10,000 Lakes](http://www.branding10000lakes.com/)
+* [How Coconut Water Built a Health Empire Out of Electrolytes, Rihanna, and Human Blood](http://www.good.is/post/how-coconut-water-built-a-health-empire-out-of-electrolytes-rihanna-and-human-blood/)
+* [Who are the rioters? Young men from poor areas ... but that's not the full story](http://www.guardian.co.uk/uk/2011/aug/09/london-riots-who-took-part)
+* [Restaurant websites: Why are they so awful? Which ones are the absolute worst?](http://www.slate.com/?id=2301228)
+* [The Real Deal](https://www.facebook.com/notes/jonathans-card/the-real-deal/174391689299156)
+* [Positive Feedback by White Fang](http://whitefang420.bandcamp.com/album/positive-feedback)
