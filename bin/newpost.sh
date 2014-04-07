@@ -40,8 +40,6 @@ photo:
 alt:
 source:
 ---
-
-![]({{ site.url }}/assets/)
 EOF
 
 subl $post_file
