@@ -32,9 +32,13 @@ date=$(date +"%Y-%m-%d %T")
 
 cat <<EOF >> $post_file
 ---
-layout: post
+layout: photo
 title: $title
 date: $date
+
+photo:
+alt:
+source:
 ---
 
 ![]({{ site.url }}/assets/)
