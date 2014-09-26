@@ -33,7 +33,7 @@ for file in $(find . -type f -newermt $(date +"%Y-%m-%d") \( -iname \*.png -o -i
 		# sips is super lossy
 		# sips --resampleWidth 500 ../$file
 	# fi
-	
+
 	# if cli imageOptim is installed
 	# https://github.com/JamieMason/ImageOptim-CLI
 	# if [ "$(type -t imageOptim)" = "file" ]; then
@@ -49,7 +49,7 @@ for file in $(find . -type f -newermt $(date +"%Y-%m-%d") \( -iname \*.png -o -i
 		-resize 500 \
 		../$file
 
-	open -a ImageOptim ../$file
+	/Applications/ImageOptim.app/Contents/MacOS/ImageOptim ../$file
 done
 
 cd ../..
