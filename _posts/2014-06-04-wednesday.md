@@ -1,6 +1,6 @@
 ---
 layout: photo
-title: Wednesday, June  4, 2014
+title: Wednesday, June 4, 2014
 date: 2014-06-04 13:33:47
 
 photo: sharing-economy.jpg

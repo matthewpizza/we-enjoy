@@ -1,6 +1,6 @@
 ---
 layout: photo
-title: Wednesday, July  9, 2014
+title: Wednesday, July 9, 2014
 date: 2014-07-09 09:57:27
 
 photo: the-internet.jpg

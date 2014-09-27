@@ -1,6 +1,6 @@
 ---
 layout: photo
-title: Wednesday, July  2, 2014
+title: Wednesday, July 2, 2014
 date: 2014-07-02 14:28:13
 
 photo: pentagon.jpg

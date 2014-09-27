@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wednesday, March  5, 2014
+title: Wednesday, March 5, 2014
 date: 2014-03-05 14:00:13
 ---
 

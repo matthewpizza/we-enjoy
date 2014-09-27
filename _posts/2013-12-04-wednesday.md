@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wednesday, December  4, 2013
+title: Wednesday, December 4, 2013
 date: 2013-12-04 11:21:14
 ---
 

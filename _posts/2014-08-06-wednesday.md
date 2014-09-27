@@ -1,6 +1,6 @@
 ---
 layout: photo
-title: Wednesday, August  6, 2014
+title: Wednesday, August 6, 2014
 date: 2014-08-06 11:39:00
 
 photo: comet.gif

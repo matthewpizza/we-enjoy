@@ -1,6 +1,6 @@
 ---
 layout: photo
-title: Wednesday, September  3, 2014
+title: Wednesday, September 3, 2014
 date: 2014-09-03 10:12:36
 
 photo: icloud-hack.jpg

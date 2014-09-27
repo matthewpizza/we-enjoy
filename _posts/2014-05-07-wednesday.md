@@ -1,6 +1,6 @@
 ---
 layout: photo
-title: Wednesday, May  7, 2014
+title: Wednesday, May 7, 2014
 date: 2014-05-07 13:12:25
 
 photo: g1-prototype.jpg
