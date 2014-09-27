@@ -1,5 +1,6 @@
 var fs = require('fs'),
 	http = require('http'),
+	https = require('https'),
 	events = require('events'),
 	emitter = new events.EventEmitter(),
 	moment = require('moment'),
@@ -89,7 +90,7 @@ emitter.on('createPost', function(filename, post) {
 			save_post(post, filename, post.type, false);
 		break;
 		case 'video':
-			if (typeof post.thumbnail_url !== 'undefined' && post.thumbnail_url.indexOf('http://') > -1) {
+			if (typeof post.thumbnail_url !== 'undefined') {
 				url = post.thumbnail_url;
 				image = image_filename(url);
 
@@ -136,7 +137,9 @@ function save_post(post, filename, type, image) {
 
 function save_image(url, filename) {
 
-	http.get(url, function(response) {
+	var remote = url.indexOf('https://') > -1 ? https : http;
+
+	remote.get(url, function(response) {
 
 		var imagedata = ''
 		;
