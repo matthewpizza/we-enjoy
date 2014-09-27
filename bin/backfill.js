@@ -90,16 +90,43 @@ emitter.on('createPost', function(filename, post) {
 			save_post(post, filename, post.type, false);
 		break;
 		case 'video':
-			if (typeof post.thumbnail_url !== 'undefined') {
+			if (typeof post.permalink_url !== 'undefined') {
+
+				if (is_vimeo(post.permalink_url)) {
+					url = vimeo_image(post.permalink_url);
+					image = image_filename(url);
+				}
+				else if (is_youtube(post.permalink_url)) {
+					url = youtube_image(post.permalink_url);
+
+					if (url !== false) {
+						image = youtube_filename(post.permalink_url);
+					}
+				}
+
+			}
+			else if (typeof post.thumbnail_url !== 'undefined') {
 				url = post.thumbnail_url;
 				image = image_filename(url);
+			}
+			else {
+				url = false;
+				image = false;
+			}
 
+
+			if (url && image) {
 				save_image(url, image);
 				save_post(post, filename, 'photo', image);
 			}
-			else {
+
+			/*if ( ! url && ! image ) {
 				save_post(post, filename, post.type, image);
 			}
+			else {
+				save_image(url, image);
+				save_post(post, filename, 'photo', image);
+			}*/
 		break;
 	}
 
@@ -113,8 +140,13 @@ function save_post(post, filename, type, image) {
 		date = moment(new Date(post.date)),
 		title = date.format('dddd, MMMM D, YYYY'),
 		timestamp = date.format('YYYY-MM-DD HH:mm:ss'),
-		formatted_content = post.type === 'text' ? drsax.write(post.body) : drsax.write(post.caption)
+		formatted_content = post.type === 'text' ? drsax.write(post.body) : drsax.write(post.caption),
+		source = false
 	;
+
+	source = typeof post.permalink_url !== 'undefined' ? post.permalink_url : source;
+	source = ! source && typeof post.video_url !== 'undefined' ? post.video_url : source;
+	source = ! source ? '' : source;
 
 	content += '---\n';
 	content += 'layout: ' + post.type + '\n';
@@ -122,7 +154,7 @@ function save_post(post, filename, type, image) {
 	content += 'date: ' + timestamp + '\n\n';
 	content += 'photo: ' + image + '\n';
 	content += 'alt:\n';
-	content += 'source:\n';
+	content += 'source: ' + source + '\n';
 	content += '---\n\n';
 	content += remove_entities(formatted_content);
 
@@ -152,13 +184,18 @@ function save_image(url, filename) {
 
 		response.on('end', function() {
 			fs.writeFile(paths.images + '/_/' + filename, imagedata, 'binary', function(error){
-				if (error) return console.log(error);
+				if (error) {
+					console.log(filename);
+					console.log(error);
+					return;
+				}
 
 				console.log(filename + ' was saved.');
 			});
 		});
 
 	}).on('error', function(error) {
+		console.log(filename);
 		console.log(error);
 	});
 
@@ -196,4 +233,65 @@ function remove_entities(str) {
 	}
 
 	return str;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+function vimeo_image(video) {
+
+	var videoID = video.substring( video.lastIndexOf('/') + 1 )
+	;
+
+	return 'https://i.vimeocdn.com/video/' + videoID + '_1280x720.jpg';
+
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+function is_vimeo(url) {
+	return url.indexOf('vimeo.com') > -1;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+function youtube_image(video) {
+
+	var videoID = youtube_id(video);
+
+	if (! videoID) {
+		return false;
+	}
+
+	return 'https://img.youtube.com/vi/' + videoID + '/maxresdefault.jpg';
+
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+function youtube_id(video) {
+
+	var regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/,
+		match = video.match(regExp)
+	;
+
+	if (match && match[2].length == 11) {
+		return match[2];
+	}
+
+	return false;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+function is_youtube(url) {
+	if ( url.indexOf('youtube.com') > -1 || url.indexOf('youtu.be') > -1 ) {
+		return true;
+	}
+	return false;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+function youtube_filename(video) {
+	return youtube_id(video) + '.jpg';
 }
