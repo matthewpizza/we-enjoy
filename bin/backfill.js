@@ -123,7 +123,7 @@ function save_post(post, filename, type, image) {
 	content += 'alt:\n';
 	content += 'source:\n';
 	content += '---\n\n';
-	content += formatted_content;
+	content += remove_entities(formatted_content);
 
 	fs.writeFile(paths.posts + '/' + filename, content, function (error) {
 		if (error) return console.log(error);
@@ -165,4 +165,32 @@ function save_image(url, filename) {
 
 function image_filename(url) {
 	return url.substring( url.lastIndexOf('/') + 1 );
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+function remove_entities(str) {
+	var find = [
+			'&#8220;',
+			'&#8221;',
+			'&#8216;',
+			'&#8217;',
+			'&#8230;',
+			'&amp;'
+		],
+		replace = [
+			'“',
+			'”',
+			'‘',
+			'’',
+			'…',
+			'&'
+		]
+	;
+
+	for (var i = 0; i < find.length; i++) {
+		str = str.replace(find[i], replace[i]);
+	}
+
+	return str;
 }
