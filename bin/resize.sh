@@ -39,13 +39,6 @@ for file in $(git ls-files -o . | grep -E ".gif|.png|.jpg|.jpeg"); do
 		# sips --resampleWidth 500 ../$file
 	# fi
 
-	# if cli imageOptim is installed
-	# https://github.com/JamieMason/ImageOptim-CLI
-	# if [ "$(type -t imageOptim)" = "file" ]; then
-		# imageOptim --jpeg-mini --image-alpha --quit --directory ../$file
-	# fi
-
-
 	# resize to 500px with image magick
 	# save to parent assets directory
 	convert \
@@ -54,7 +47,13 @@ for file in $(git ls-files -o . | grep -E ".gif|.png|.jpg|.jpeg"); do
 		-resize 500 \
 		../$file
 
-	/Applications/ImageOptim.app/Contents/MacOS/ImageOptim ../$file
+	# if cli imageOptim is installed
+	# https://github.com/JamieMason/ImageOptim-CLI
+	if [ "$(type -t imageOptim)" = "file" ]; then
+		find ../$file | imageOptim --quit
+	else
+		/Applications/ImageOptim.app/Contents/MacOS/ImageOptim ../$file
+	fi
 done
 
 # restore
