@@ -17,10 +17,15 @@ popd > /dev/null
 # cd original assets directory
 cd "$DIR"/../assets/_
 
+# Set $IFS variable for filenames with spaces
+# http://www.cyberciti.biz/tips/handling-filenames-with-spaces-in-bash.html
+SAVEIFS=$IFS
+IFS=$(echo -en "\n\b")
+
 # find file modified today
-for file in $(find . -type f -newermt $(date +"%Y-%m-%d") \( -iname \*.png -o -iname \*.jpg -o -iname \*.jpeg -o -iname \*.gif \)); do
-	# echo $file
-	echo ${file##./}
+for file in $(git ls-files -o . | grep -E ".gif|.png|.jpg|.jpeg"); do
+	echo $file
+	# echo ${file##./}
 
 	# copy to parent assets directory
 	# cp $file ../$file
@@ -51,5 +56,8 @@ for file in $(find . -type f -newermt $(date +"%Y-%m-%d") \( -iname \*.png -o -i
 
 	/Applications/ImageOptim.app/Contents/MacOS/ImageOptim ../$file
 done
+
+# restore
+IFS=$SAVEIFS
 
 cd ../..
