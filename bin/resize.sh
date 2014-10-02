@@ -23,7 +23,8 @@ SAVEIFS=$IFS
 IFS=$(echo -en "\n\b")
 
 # find file modified today
-for file in $(git ls-files -o . | grep -E ".gif|.png|.jpg|.jpeg"); do
+# --[cached|deleted|others|ignored|stage|unmerged|killed|modified]
+for file in $(git ls-files --others . | grep -E ".gif|.png|.jpg|.jpeg"); do
 	echo $file
 	# echo ${file##./}
 
