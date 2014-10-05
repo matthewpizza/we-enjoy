@@ -19,7 +19,7 @@ var fs = require('fs'),
 
 	title = moment().format('dddd, MMMM D, YYYY'),
 	filename = moment().format('YYYY-MM-DD-dddd').toLowerCase() + '.md',
-	permalink = 'http://we-enjoy.github.io/' + moment().format('YYYY/MM/DD/dddd/').toLowerCase(),
+	permalink = 'http://we-enjoy.us/' + moment().format('YYYY/MM/DD/dddd/').toLowerCase(),
 
 	paths = {
 		images: path.normalize(__dirname + '/../assets'),
