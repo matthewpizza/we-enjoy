@@ -1,21 +1,33 @@
 var fs = require('fs'),
+	path = require('path'),
 	exec = require('child_process').exec,
 	moment = require('moment'),
 	yaml = require('yaml-front-matter'),
-	tumblr = require('tumblr.js'),
-	config = require('../_tumblr.json'),
-	client = tumblr.createClient(config),
+	config = {
+		twitter: require('../_twitter.json'),
+		tumblr: require('../_tumblr.json')
+	},
+	Twitter = require('node-twitter'),
+	tumblrjs = require('tumblr.js'),
+	twitter = new Twitter.RestClient(
+		config.twitter.consumer_key,
+		config.twitter.consumer_secret,
+		config.twitter.access_token_key,
+		config.twitter.access_token_secret
+	),
+	tumblr = tumblrjs.createClient(config.tumblr),
+
+	title = moment().format('dddd, MMMM D, YYYY'),
+	filename = moment().format('YYYY-MM-DD-dddd').toLowerCase() + '.md',
+	permalink = 'http://we-enjoy.github.io/' + moment().format('YYYY/MM/DD/dddd/').toLowerCase(),
 
 	paths = {
-		images: __dirname + '/../assets',
-		posts: __dirname + '/../_posts'
+		images: path.normalize(__dirname + '/../assets'),
+		posts: path.normalize(__dirname + '/../_posts')
 	}
 ;
 
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
-
-var filename = moment().format('YYYY-MM-DD-dddd').toLowerCase() + '.md'
-;
 
 fs.exists(paths.posts + '/' + filename, function(exists) {
 	if (! exists) return console.error(filename + ' doesn’t exist.');
@@ -31,16 +43,29 @@ fs.exists(paths.posts + '/' + filename, function(exists) {
 
 function publish_post( post ) {
 	var options = {
-		caption: post.__content,
-		format: 'markdown',
-		tweet: moment().format('dddd, MMMM D, YYYY'),
-		data: paths.images + '/' + post.photo,
+		twitter: {
+			'status': title + ' ' + permalink,
+			'media[]': paths.images + '/' + post.photo
+		},
+		tumblr: {
+			caption: post.__content,
+			format: 'markdown',
+			tweet: 'off',
+			data: paths.images + '/' + post.photo,
+		}
 	};
 
 	fs.exists(paths.images + '/' + post.photo, function(exists) {
 		if (! exists) return console.error(post.photo + ' doesn’t exist.');
 
-		client.photo('we-enjoy', options, function(err, resp) {
+		twitter.statusesUpdateWithMedia(options.twitter, function(err, resp) {
+			if (err) return console.log(err);
+			console.log(resp);
+		});
+
+		return;
+
+		tumblr.photo('we-enjoy', options.tumblr, function(err, resp) {
 			if (err) console.log(err.message);
 		});
 
