@@ -60,10 +60,8 @@ function publish_post( post ) {
 
 		twitter.statusesUpdateWithMedia(options.twitter, function(err, resp) {
 			if (err) return console.log(err);
-			console.log(resp);
+			// console.log(resp);
 		});
-
-		return;
 
 		tumblr.photo('we-enjoy', options.tumblr, function(err, resp) {
 			if (err) console.log(err.message);
@@ -79,8 +77,6 @@ function publish_post( post ) {
 function push_changes() {
 	var commit_message = moment().format('dddd, MMMM D, YYYY')
 	;
-
-	console.log(commit_message);
 
 	exec('cd ../', function(error, stdout, stderr) {
 		if (error) return console.log(error);
