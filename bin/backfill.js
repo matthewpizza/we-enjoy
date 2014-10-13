@@ -90,6 +90,8 @@ emitter.on('createPost', function(filename, post) {
 			save_post(post, filename, post.type, false);
 		break;
 		case 'video':
+			// console.log(post);
+			// return;
 			if (typeof post.permalink_url !== 'undefined') {
 
 				if (is_vimeo(post.permalink_url)) {
@@ -103,21 +105,24 @@ emitter.on('createPost', function(filename, post) {
 						image = youtube_filename(post.permalink_url);
 					}
 				}
+				else {
+					console.log(post.post_url);
+					// url = post.thumbnail_url;
+					// image = image_filename(url);
+				}
 
-			}
-			else if (typeof post.thumbnail_url !== 'undefined') {
-				url = post.thumbnail_url;
-				image = image_filename(url);
 			}
 			else {
 				url = false;
 				image = false;
 			}
 
-
 			if (url && image) {
 				save_image(url, image);
 				save_post(post, filename, 'photo', image);
+			}
+			else {
+				save_post(post, filename, 'photo', post.post_url);
 			}
 
 			/*if ( ! url && ! image ) {
