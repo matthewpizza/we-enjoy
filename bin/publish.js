@@ -66,41 +66,5 @@ function publish_post( post ) {
 		tumblr.photo('we-enjoy', options.tumblr, function(err, resp) {
 			if (err) console.log(err.message);
 		});
-
-		push_changes();
-	});
-}
-
-
-/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
-
-function push_changes() {
-	var commit_message = moment().format('dddd, MMMM D, YYYY')
-	;
-
-	exec('cd ../', function(error, stdout, stderr) {
-		if (error) return console.log(error);
-		if (stdout) return console.log(stdout);
-		if (stderr) return console.log(stderr);
-	});
-	exec('git add -A', function(error, stdout, stderr) {
-		if (error) return console.log(error);
-		if (stdout) return console.log(stdout);
-		if (stderr) return console.log(stderr);
-	});
-	exec('git commit -am "' + commit_message + '"', function(error, stdout, stderr) {
-		if (error) return console.log(error);
-		if (stdout) return console.log(stdout);
-		if (stderr) return console.log(stderr);
-	});
-	exec('git pull', function(error, stdout, stderr) {
-		if (error) return console.log(error);
-		if (stdout) return console.log(stdout);
-		if (stderr) return console.log(stderr);
-	});
-	exec('git push origin master', function(error, stdout, stderr) {
-		if (error) return console.log(error);
-		if (stdout) return console.log(stdout);
-		if (stderr) return console.log(stderr);
 	});
 }
