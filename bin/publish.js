@@ -1,6 +1,5 @@
 var fs = require('fs'),
 	path = require('path'),
-	exec = require('child_process').exec,
 	moment = require('moment'),
 	yaml = require('yaml-front-matter'),
 	config = {
@@ -60,11 +59,12 @@ function publish_post( post ) {
 
 		twitter.statusesUpdateWithMedia(options.twitter, function(err, resp) {
 			if (err) return console.log(err);
-			// console.log(resp);
+			console.log('ヽ(^o^)ノ Twitter');
 		});
 
 		tumblr.photo('we-enjoy', options.tumblr, function(err, resp) {
-			if (err) console.log(err.message);
+			if (err) return console.log(err.message);
+			console.log('ヽ(^o^)ノ Tumblr');
 		});
 	});
 }
