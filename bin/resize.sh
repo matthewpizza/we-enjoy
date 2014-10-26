@@ -44,8 +44,10 @@ for file in $(git ls-files --others . | grep -E ".gif|.png|.jpg|.jpeg"); do
 	# save to parent assets directory
 	convert \
 		$file \
+		-gravity center \
 		-coalesce \
-		-resize 500 \
+		-extent 500x375 \
+		-background white \
 		../$file
 
 	# if cli imageOptim is installed
