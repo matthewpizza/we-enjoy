@@ -45,9 +45,10 @@ for file in $(git ls-files --others . | grep -E ".gif|.png|.jpg|.jpeg"); do
 	convert \
 		$file \
 		-gravity center \
-		-coalesce \
-		-extent 500x375 \
 		-background white \
+		-coalesce \
+		-resize 500x375\> \
+		-extent 500x375 \
 		../$file
 
 	# if cli imageOptim is installed
