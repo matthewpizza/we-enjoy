@@ -1,6 +1,6 @@
 name: We Enjoy
-# url: //we-enjoy.github.io
-url: http://localhost:4000
+url: //we-enjoy.github.io
+# url: http://localhost:4000
 permalink: pretty
 paginate: 7
 paginate_path: "page/:num"
