@@ -24,7 +24,7 @@ IFS=$(echo -en "\n\b")
 
 # find file modified today
 # --[cached|deleted|others|ignored|stage|unmerged|killed|modified]
-for file in $(git ls-files --others . | grep -E ".gif|.png|.jpg|.jpeg"); do
+for file in $(git ls-files --cached . | grep -E ".gif|.png|.jpg|.jpeg"); do
 	echo $file
 	# echo ${file##./}
 
@@ -47,17 +47,19 @@ for file in $(git ls-files --others . | grep -E ".gif|.png|.jpg|.jpeg"); do
 		-gravity center \
 		-background white \
 		-coalesce \
-		-resize 500x375\> \
+		-resize 500x375^ \
 		-extent 500x375 \
 		../$file
 
 	# if cli imageOptim is installed
 	# https://github.com/JamieMason/ImageOptim-CLI
-	if [ "$(type -t imageOptim)" = "file" ]; then
-		find ../$file | imageOptim --quit
-	else
-		/Applications/ImageOptim.app/Contents/MacOS/ImageOptim ../$file
-	fi
+	# if [ "$(type -t imageOptim)" = "file" ]; then
+	# 	find ../$file | imageOptim --quit
+	# else
+	# 	/Applications/ImageOptim.app/Contents/MacOS/ImageOptim ../$file
+	# fi
+	# Async
+	open -a ImageOptim ../$file
 done
 
 # restore
