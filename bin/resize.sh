@@ -24,7 +24,7 @@ IFS=$(echo -en "\n\b")
 
 # find file modified today
 # --[cached|deleted|others|ignored|stage|unmerged|killed|modified]
-for file in $(git ls-files --cached . | grep -E ".gif|.png|.jpg|.jpeg"); do
+for file in $(git ls-files --others . | grep -E ".gif|.png|.jpg|.jpeg"); do
 	echo $file
 	# echo ${file##./}
 
