@@ -13,6 +13,7 @@ title: We Enjoy
 
 
 			{% if page.photo %}
+				<figure>
 				{% if page.source %}
 					<a href="{{ page.source }}" target="_blank">
 						<img src="{{ site.url }}/assets/{{ page.photo }}" alt="{{ page.alt }}">
@@ -20,6 +21,7 @@ title: We Enjoy
 				{% else %}
 					<img src="{{ site.url }}/assets/{{ page.photo }}" alt="{{ page.alt }}">
 				{% endif %}
+				</figure>
 			{% endif %}
 
 			{{ page.content | markdownify }}
