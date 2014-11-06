@@ -1,0 +1,13 @@
+.transform( @transform ) {
+  -webkit-transform: @transform;
+     -moz-transform: @transform;
+      -ms-transform: @transform;
+       -o-transform: @transform;
+          transform: @transform;
+}
+
+.vertical-align() {
+	position: relative;
+	top: 50%;
+	.transform( translateY( -50% ) );
+}

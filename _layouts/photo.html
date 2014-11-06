@@ -3,6 +3,7 @@
 	<article class="hentry">
 		<h2>{{ page.title }}</h2>
 
+		<figure>
 		{% if page.source %}
 			<a href="{{ page.source }}" target="_blank">
 				<img src="{{ site.url }}/assets/{{ page.photo }}" alt="{{ page.alt }}" width="500" height="375">
@@ -10,6 +11,7 @@
 		{% else %}
 			<img src="{{ site.url }}/assets/{{ page.photo }}" alt="{{ page.alt }}" width="500" height="375">
 		{% endif %}
+		</figure>
 
 		{{ page.content | markdownify }}
 	</article>
