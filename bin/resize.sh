@@ -1,9 +1,16 @@
 #!/bin/bash
 
-# function exists check
-is_function() {
-    declare -f -F $1 > /dev/null
-    return $?
+# resize image
+resize_image() {
+	# resize to 500px with image magick
+	# save to parent assets directory
+	convert \
+		$1 \
+		-gravity center \
+		-background white \
+		-coalesce \
+		-resize '500>x375>' \
+		../$1
 }
 
 echo "Resize new images"
@@ -25,30 +32,20 @@ IFS=$(echo -en "\n\b")
 # find file modified today
 # --[cached|deleted|others|ignored|stage|unmerged|killed|modified]
 for file in $(git ls-files --others . | grep -E ".gif|.png|.jpg|.jpeg"); do
+	resized=false
 	echo $file
-	# echo ${file##./}
 
-	# copy to parent assets directory
-	# cp $file ../$file
+	if [[ $file == *.gif* ]] ; then
+		if [ `identify "$file" | wc -l` -gt 1 ] ; then
+			# copy to parent assets directory
+			cp $file ../$file
+			resized=true
+		fi
+	fi
 
-	# get image width
-	# w=$( mdls "$file" | grep kMDItemPixelWidth | tail -n1 | cut -d= -f2 )
-
-	# if larger than 500px wide
-	# if (("$w" > 500)); then
-		# sips is super lossy
-		# sips --resampleWidth 500 ../$file
-	# fi
-
-	# resize to 500px with image magick
-	# save to parent assets directory
-	convert \
-		$file \
-		-gravity center \
-		-background white \
-		-coalesce \
-		-resize '500>x375>' \
-		../$file
+	if [ "$resized" = false ] ; then
+		resize_image $file
+	fi
 
 	# if cli imageOptim is installed
 	# https://github.com/JamieMason/ImageOptim-CLI
@@ -57,6 +54,7 @@ for file in $(git ls-files --others . | grep -E ".gif|.png|.jpg|.jpeg"); do
 	# else
 	# 	/Applications/ImageOptim.app/Contents/MacOS/ImageOptim ../$file
 	# fi
+
 	# Async
 	open -a ImageOptim ../$file
 done
