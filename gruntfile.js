@@ -11,7 +11,8 @@ module.exports = function(grunt) {
 					cleancss: true
 				},
 				files: {
-					'css/main.css': 'css/main.less'
+					'css/main.css': 'css/main.less',
+					'css/tumblr.css': 'css/tumblr.less'
 				}
 			}
 		},
@@ -19,7 +20,7 @@ module.exports = function(grunt) {
 			less: {
 				files: [
 					'css/less/*',
-					'css/main.less'
+					'css/*.less'
 				],
 				tasks: ['less']
 			}
