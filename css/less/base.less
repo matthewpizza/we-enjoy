@@ -1,66 +1,29 @@
 body {
-	font-family: 'karlaregular', sans-serif;
+	font-family: 'Karla', sans-serif;
 	font-size: 15px;
 	line-height: 22px;
+	font-weight: 400;
 	vertical-align: baseline;
 	text-align: center;
 }
 strong, b, h1, h2, h3, h4, h5, h6 {
-	font-family: 'karlabold', sans-serif;
-	font-weight: normal;
+	font-family: 'Karla', sans-serif;
+	font-weight: 700;
 }
 a {
 	color: #262626;
 	text-decoration: none;
 }
 .container {
-	width: 500px;
-	margin: auto;
-	text-align: left;
-}
-.hentry {
-	margin: 0 0 100px 0;
-	position: relative;
-}
+	max-width: 500px;
+	width: 80%;
+	padding-left: 15px;
+	padding-right: 15px;
+	.center-block();
+	.clearfix();
 
-.hentry ul.normal { margin-bottom: 1em }
-.hentry ul.normal li {
-	list-style-type: disc;
-	list-style-position: inside;
-}
-.hentry ul {
-	border-top: 2px solid #999;
-	margin: 0;
-	padding: 0;
-}
-.hentry ul li {
-	list-style: none;
-	padding: 6px 2px;
-	margin-left: 0;
-	border-bottom: 1px solid #999;
-}
-.hentry blockquote {
-	border-left: 3px solid #000;
-	padding: 0px 15px;
-	margin: 5px 10px 15px 10px;
-}
-.hentry p { margin: 0; }
-.hentry div.digest {
-position: absolute;
-top: 0px;
-left: 500px;
-padding-left: 110px;
-width: 100px;
-}
-.hentry .permalink a:hover { color: #666 }
-.navigation {
-	text-align: center;
-	margin: 60px 0 20px 0;
-}
-.navigation span,
-.navigation a { color: #666 }
-.hentry img {
-	max-width: 100%;
-	height: auto;
-	margin-bottom: 1em;
+	#main {
+		text-align: left;
+		.make-row();
+	}
 }

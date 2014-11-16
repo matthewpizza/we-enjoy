@@ -2,11 +2,12 @@ header {
 	background-color: #333;
 	color: #fff;
 	width: 100%;
-	margin-bottom: 40px;
+	margin-bottom: 0;
 	.clearfix();
 
 	.container {
 		width: 80%;
+		max-width: 80%;
 		.center-block();
 		padding-left: 15px;
 		padding-right: 15px;
@@ -26,6 +27,8 @@ header {
 	}
 
 	@media (min-width: 768px) {
+		margin-bottom: 40px;
+
 		h1 {
 			text-align: left;
 		}
