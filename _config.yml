@@ -2,7 +2,7 @@ name: We Enjoy
 url: //we-enjoy.us
 # url: http://localhost:4000
 permalink: pretty
-paginate: 7
+paginate: 10
 paginate_path: "page/:num"
 markdown: kramdown
 exclude:
