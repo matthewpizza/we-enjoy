@@ -15,3 +15,4 @@ source:
 * [The Economics of uberX (Part II)](http://justin-singer.org/blog/2014/11/the-economics-of-uberx-part-ii/)
 * [Uber Executive Suggests Digging Up Dirt On Journalists](http://www.buzzfeed.com/bensmith/uber-executive-suggests-digging-up-dirt-on-journalists)
 * [Uber Seeks Changes To Wheelchair-Accessible Taxi Bill](http://wamu.org/news/14/11/18/uber_seeks_changes_to_wheelchair_accessible_taxi_bill)
+* [How to uninstall Uber](http://www.tuaw.com/2014/11/19/how-to-uninstall-uber/)
