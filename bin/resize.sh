@@ -2,14 +2,21 @@
 
 # resize image
 resize_image() {
-	# resize to 500px with image magick
+	# resize to 2:1 (max: 800x400px) with image magick
 	# save to parent assets directory
+	size_w='%[fx: w ]'
+	size_h='%[fx: w/2 ]'
+	offset_x='%[fx: 0 ]'
+	offset_y='%[fx: (h/2)-(w/4) ]'
+	viewport="${size_w}x${size_h}+${offset_x}+${offset_y}"
+
 	convert \
 		$1 \
-		-gravity center \
-		-background white \
-		-coalesce \
-		-resize '500>x375>' \
+		-set option:distort:viewport "$viewport" \
+		-filter point \
+		-distort SRT 0 \
+		+repage \
+		-resize 800x400\> \
 		../$1
 }
 
