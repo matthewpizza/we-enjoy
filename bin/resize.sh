@@ -35,13 +35,13 @@ for file in $(git ls-files --others . | grep -E ".gif|.png|.jpg|.jpeg"); do
 	resized=false
 	echo $file
 
-	if [[ $file == *.gif* ]] ; then
-		if [ `identify "$file" | wc -l` -gt 1 ] ; then
-			# copy to parent assets directory
-			cp $file ../$file
-			resized=true
-		fi
-	fi
+	# if [[ $file == *.gif* ]] ; then
+	# 	if [ `identify "$file" | wc -l` -gt 1 ] ; then
+	# 		# copy to parent assets directory
+	# 		cp $file ../$file
+	# 		resized=true
+	# 	fi
+	# fi
 
 	if [ "$resized" = false ] ; then
 		resize_image $file
