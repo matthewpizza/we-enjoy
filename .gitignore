@@ -3,5 +3,4 @@ _posts/.DS_Store
 _site
 _twitter.json
 _tumblr.json
-node_modules
-bower_components
+.sass-cache
