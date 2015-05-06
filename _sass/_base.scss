@@ -20,10 +20,16 @@ h2 {
 
 a {
   color: white;
-  text-decoration: none;
 
-  &:hover {
+  &:link {
+    text-decoration: none;
+  }
+  &:hover,
+  &:active {
     text-decoration: underline;
+  }
+  &:visited {
+    text-decoration: line-through;
   }
 }
 
