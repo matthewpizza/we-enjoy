@@ -5,7 +5,7 @@ title: Home
 {% for page in paginator.posts %}
 
   <article class="hentry">
-    <h2 class="article-title"><a href="{{ site.url }}{{ page.url }}">{{ page.date | date: "%A, %B %d, %Y"}}</a></h2>
+    <h2 class="article-title"><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></h2>
 
     {% if page.photo %}
       {% if page.source %}
