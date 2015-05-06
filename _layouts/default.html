@@ -1,13 +1,44 @@
-{% include header.html %}
+<!DOCTYPE html>
+<html lang="en">
 
-<div id="main">
+  <head>
+    <meta charset="UTF-8">
+    <link href="http://gmpg.org/xfn/11" rel="profile">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-	<section>
+    <title>
+      {% if page.title == "Home" %}
+        {{ site.name }}
+      {% else %}
+        {{ site.name }}: {{ page.title }}
+      {% endif %}
+    </title>
 
-		{{ content }}
+    <link rel="stylesheet" href="{{ site.url }}/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Sintony:400">
 
-	</section>
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed/">
+  </head>
 
-</div>
+  <body>
 
-{% include footer.html %}
+    <div class="container content">
+      <header class="masthead">
+        <h1 class="masthead-title">
+          <a href="{{ site.url }}/">{{ site.name }}</a>
+        </h1>
+
+        <ul class="follow">
+          <li><a href="https://twitter.com/we_enjoy/" target="_blank">Twitter</a></li>
+          <li><a href="https://www.tumblr.com/follow/we-enjoy" target="_blank">Tumblr</a></li>
+          <li><a href="{{ site.url }}/feed/" target="_blank">RSS</a></li>
+        </ul>
+      </header>
+
+      <main>
+        {{ content }}
+      </main>
+    </div>
+
+  </body>
+</html>

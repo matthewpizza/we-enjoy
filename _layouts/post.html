@@ -1,16 +1,8 @@
-{% include header.html %}
+---
+layout: default
+---
+<article class="hentry">
+  <h2 class="article-title">{{ page.title }}</h2>
 
-<div id="main">
-
-	<section>
-
-		<article class="hentry">
-			<h2>{{ page.title }}</h2>
-			{{ content }}
-		</article>
-
-	</section>
-
-</div>
-
-{% include footer.html %}
+  {{ page.content | markdownify }}
+</article>

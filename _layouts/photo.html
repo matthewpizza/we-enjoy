@@ -1,27 +1,16 @@
-{% include header.html %}
+---
+layout: default
+---
+<article class="hentry">
+  <h2 class="article-title">{{ page.title }}</h2>
 
-<div id="main">
+  {% if page.source %}
+    <a href="{{ page.source }}" target="_blank">
+      <img src="{{ site.url }}/assets/{{ page.photo }}" alt="{{ page.alt }}">
+    </a>
+  {% else %}
+    <img src="{{ site.url }}/assets/{{ page.photo }}" alt="{{ page.alt }}">
+  {% endif %}
 
-	<section>
-
-		<article class="hentry">
-			<h2>{{ page.title }}</h2>
-
-			<figure>
-			{% if page.source %}
-				<a href="{{ page.source }}" target="_blank">
-					<img src="{{ site.url }}/assets/{{ page.photo }}" alt="{{ page.alt }}">
-				</a>
-			{% else %}
-				<img src="{{ site.url }}/assets/{{ page.photo }}" alt="{{ page.alt }}">
-			{% endif %}
-			</figure>
-
-			{{ page.content | markdownify }}
-		</article>
-
-	</section>
-
-</div>
-
-{% include footer.html %}
+  {{ page.content | markdownify }}
+</article>
