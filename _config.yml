@@ -6,11 +6,10 @@ paginate: 10
 paginate_path: "page/:num"
 markdown: kramdown
 exclude:
-  - node_modules
   - bin
   - README.md
   - CNAME
   - _tumblr.json
   - _twitter.json
-  - gruntfile.js
-  - package.json
+sass:
+  style: compressed
