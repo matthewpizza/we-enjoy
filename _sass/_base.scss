@@ -1,0 +1,33 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-family: Sintony, sans-serif;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+h1,
+h2 {
+  font-weight: 400;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+img {
+  width: 100%;
+  height: auto;
+}

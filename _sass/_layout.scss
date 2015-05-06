@@ -1,0 +1,72 @@
+$margin: 80px;
+
+.container {
+  max-width: 560px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.masthead {
+  margin-top: $margin;
+  margin-bottom: $margin;
+
+  .masthead-title {
+    margin: 0;
+
+    letter-spacing: 24px;
+    text-transform: uppercase;
+
+    a:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+.follow {
+  margin-bottom: $margin;
+  padding-left: 0;
+
+  li {
+    display: inline;
+    padding-right: 12px;
+  }
+}
+
+.hentry {
+  margin-bottom: $margin;
+
+  ul {
+    border-top: 2px solid white;
+    padding-left: 0;
+    list-style-type: none;
+
+    li {
+      border-bottom: 1px solid white;
+      padding: 10px 2px;
+    }
+  }
+}
+
+.article-title {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.pagination {
+  margin-bottom: $margin;
+  @include clearfix;
+
+  &-item {
+    float: left;
+    width: 50%;
+  }
+
+  .next {
+    text-align: right;
+  }
+
+  span {
+    text-decoration: line-through;
+  }
+}
