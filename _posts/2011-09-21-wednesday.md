@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: photo
 title: Wednesday, September 21, 2011
 date: 2011-09-21 09:42:27
 

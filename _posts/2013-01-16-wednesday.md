@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: photo
 title: Wednesday, January 16, 2013
 date: 2013-01-16 08:58:26
 
@@ -15,5 +15,3 @@ source:
 * [GitHub’s CSS Performance](https://speakerdeck.com/jonrohan/githubs-css-performance)
 * [Using the HTML title attribute](http://www.paciellogroup.com/blog/2013/01/using-the-html-title-attribute-updated/)
 * [Don’t Make Your Customers Steal](http://www.quora.com/Thierry-Blancpain/Posts/Don%E2%80%99t-Make-Your-Customers-Steal)
-
-

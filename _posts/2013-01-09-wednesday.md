@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: photo
 title: Wednesday, January 9, 2013
 date: 2013-01-09 09:50:34
 
@@ -15,5 +15,3 @@ source: https://www.youtube.com/watch?v=WxmZEh1O8YA
 * [When Infinite Scroll Doesn’t Work](http://www.usabilitypost.com/2013/01/07/when-infinite-scroll-doesnt-work/)
 * [Diet drinks’ ‘link to depression’ questioned](http://www.bbc.co.uk/news/health-20943509)
 * [Watching Huell, Reading Ada](http://www.gelatobaby.com/2013/01/08/watching-huell-reading-ada/)
-
-

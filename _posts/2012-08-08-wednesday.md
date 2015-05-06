@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: photo
 title: Wednesday, August 8, 2012
 date: 2012-08-08 10:20:42
 
@@ -14,5 +14,3 @@ source: https://www.youtube.com/watch?v=pVumgiMJeag
 * [Leaving the Guardian, creativity vs mild depression, the quantified self and running.](http://revdancatt.com/2012/07/26/leaving-the-guardian-creativity-vs-mild-depression-the-quantified-self-and-running/)
 * [Re: Iterating](http://www.quora.com/David-Cole/Posts/Re-Iterating)
 * [A Candid Interview With America’s _Boner Rower_](http://gawker.com/5932674/)
-
-

@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: photo
 title: Wednesday, August 1, 2012
 date: 2012-08-01 08:33:17
 
@@ -14,5 +14,3 @@ source: https://www.youtube.com/watch?v=khrAhOrSZQc
 * [Carly Geehr&#8217;s answer to Olympic Games: Do Olympic or competitive swimmers ever pee in the pool?](http://www.quora.com/Olympic-Games/Do-Olympic-or-competitive-swimmers-ever-pee-in-the-pool/answer/Carly-Geehr?srid=i1)
 * [#twitterfail ethics & economics](http://buzzmachine.com/2012/07/31/twitterfail-ethics-economics/)
 * [Is it time for password-less login?](http://notes.xoxco.com/post/27999787765/is-it-time-for-password-less-login)
-
-

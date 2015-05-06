@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: photo
 title: Wednesday, April 25, 2012
 date: 2012-04-25 10:11:05
 

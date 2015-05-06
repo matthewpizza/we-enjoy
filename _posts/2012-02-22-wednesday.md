@@ -1,5 +1,5 @@
 ---
-layout: video
+layout: photo
 title: Wednesday, February 22, 2012
 date: 2012-02-22 09:54:34
 
