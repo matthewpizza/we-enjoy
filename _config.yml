@@ -11,5 +11,7 @@ exclude:
   - CNAME
   - _tumblr.json
   - _twitter.json
+  - node_modules
+  - bower_components
 sass:
   style: compressed
