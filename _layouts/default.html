@@ -31,7 +31,7 @@
         <ul class="follow">
           <li><a href="https://twitter.com/we_enjoy/" target="_blank">Twitter</a></li>
           <li><a href="https://www.tumblr.com/follow/we-enjoy" target="_blank">Tumblr</a></li>
-          <li><a href="{{ site.url }}/feed/" target="_blank">RSS</a></li>
+          <li><a href="{{ site.url }}/feed/" target="_blank" data-exclude>RSS</a></li>
         </ul>
       </header>
 
@@ -39,6 +39,8 @@
         {{ content }}
       </main>
     </div>
+
+    <script type="text/javascript" src="{{ site.url }}/scripts/vendor/require.js" data-main="{{ site.url }}/scripts/main.js"></script>
 
   </body>
 </html>
