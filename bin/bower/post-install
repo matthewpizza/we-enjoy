@@ -1,0 +1,17 @@
+#!/bin/bash
+
+pushd `dirname $0` > /dev/null
+	dir=`pwd`
+popd > /dev/null
+
+bower="$dir/../../bower_components"
+vendor="$dir/../../scripts/vendor"
+
+if [ ! -d "$vendor" ]; then
+  mkdir "$vendor"
+fi
+
+cp "$bower/jquery/dist/jquery.min.js" "$vendor"
+cp "$bower/jquery/dist/jquery.min.map" "$vendor"
+cp "$bower/requirejs/require.js" "$vendor"
+cp "$bower/jquery-pjax/jquery.pjax.js" "$vendor"

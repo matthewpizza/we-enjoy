@@ -1,0 +1,26 @@
+{
+  "name": "we-enjoy.github.io",
+  "version": "0.1.0",
+  "homepage": "http://we-enjoy.us",
+  "authors": [
+    "Matthew Spencer"
+  ],
+  "description": "Cool stuff to read.",
+  "main": "site.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-pjax": "~1.9.6",
+    "jquery": "~2.1.4",
+    "requirejs": "~2.1.17"
+  }
+}
