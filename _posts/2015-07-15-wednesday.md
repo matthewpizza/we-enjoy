@@ -13,4 +13,4 @@ source:
 * [The Warriors Who Turned to Peace by John Mohawk](http://www.yesmagazine.org/issues/healing-resistance/the-warriors-who-turned-to-peace)
 * [Turkish woman who killed husband has ‘no regret’](http://www.hurriyetdailynews.com/turkish-woman-who-killed-husband-has-no-regret.aspx?PageID=238&NID=85232&NewsCatID=509)
 * [The Web We Have to Save](https://medium.com/matter/the-web-we-have-to-save-2eb1fe15a426)
-* [iPhone 5 website teardown: How Apple compresses video using JPEG, JSON, and <canvas>](https://docs.google.com/document/u/1/pub?id=1GWTMLjqQsQS45FWwqNG9ztQTdGF48hQYpjQHR_d1WsI)
+* [iPhone 5 website teardown: How Apple compresses video using JPEG, JSON, and `<canvas>`](https://docs.google.com/document/u/1/pub?id=1GWTMLjqQsQS45FWwqNG9ztQTdGF48hQYpjQHR_d1WsI)
