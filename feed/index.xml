@@ -11,7 +11,7 @@
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>
-          {{ '<' | xml_escape }}href="{{ site.url }}{{ post.url }}"{{ '>' | xml_escape }}
+          {{ '<' | xml_escape }}a href="{{ site.url }}{{ post.url }}"{{ '>' | xml_escape }}
             {{ '<' | xml_escape }}img src="{{ site.url }}/assets/{{ post.photo }}" width="500" height="375"{{ '>' | xml_escape }}
           {{ '</a>' | xml_escape }}
           {{ post.content | xml_escape }}
