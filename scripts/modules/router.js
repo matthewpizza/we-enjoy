@@ -1,10 +1,9 @@
-require(['jquery', 'pjax'], function ($) {
+var $ = require('jquery')
+require('pjax')
 
-  $(document).on('click', 'a:not([data-exclude])', function (event) {
-    $.pjax.click(event, {
-      container: 'main',
-      fragment:  'main'
-    })
+$(document).on('click', 'a:not([data-exclude])', function (event) {
+  $.pjax.click(event, {
+    container: 'main',
+    fragment : 'main'
   })
-
 })
