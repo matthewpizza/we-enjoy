@@ -11,6 +11,5 @@ if [ ! -d "$vendor" ]; then
   mkdir "$vendor"
 fi
 
-cp "$bower/requirejs/require.js" "$vendor"
 cp -a "$bower/jquery/dist/." "$vendor"
 cp "$bower/jquery-pjax/jquery.pjax.js" "$vendor"

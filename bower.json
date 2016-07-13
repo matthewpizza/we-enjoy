@@ -20,7 +20,6 @@
   ],
   "dependencies": {
     "jquery-pjax": "~1.9.6",
-    "jquery": "~2.1.4",
-    "requirejs": "~2.1.17"
+    "jquery": "~2.1.4"
   }
 }
