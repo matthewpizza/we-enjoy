@@ -30,7 +30,8 @@ module.exports = {
   plugins: [
     // explicitly expose global variables
     new webpack.ProvidePlugin({
-      $: 'jquery'
+      $     : 'jquery',
+      jQuery: 'jquery'
     })
   ],
   // ignore node and node_modules in build
