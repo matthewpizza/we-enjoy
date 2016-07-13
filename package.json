@@ -1,24 +1,8 @@
 {
-  "name": "we-enjoy.github.io",
-  "version": "0.1.0",
+  "name": "we-enjoy",
   "description": "Cool stuff to read.",
-  "main": "index.js",
-  "bin": {
-    "we-enjoy.github.io": "publish.js"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/we-enjoy/we-enjoy.github.io.git"
-  },
   "author": "Matthew Spencer",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/we-enjoy/we-enjoy.github.io/issues"
-  },
-  "homepage": "http://we-enjoy.us",
+  "license": "Apache-2.0",
   "devDependencies": {
     "dr-sax": "~1.0.10",
     "imagemin": "^3.1.0",
