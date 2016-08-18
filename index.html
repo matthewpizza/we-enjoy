@@ -24,7 +24,11 @@ title: Home
 
 <div class="pagination">
   {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+    <a href="{{ site.url }}/" class="pagination-item previous">The Future</a>
+    {% else %}
     <a href="{{ site.url }}/page/{{ paginator.previous_page }}/" class="pagination-item previous">The Future</a>
+    {% endif %}
   {% else %}
     <span class="pagination-item previous">The Future</span>
   {% endif %}
