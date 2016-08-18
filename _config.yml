@@ -1,18 +1,22 @@
 name: We Enjoy
 url: //we-enjoy.us
-# url: http://localhost:4000
 permalink: pretty
 paginate: 10
 paginate_path: "page/:num"
 markdown: kramdown
 exclude:
-  - bin
-  - README.md
+  - .env
   - CNAME
+  - README.md
   - _tumblr.json
   - _twitter.json
-  - node_modules
+  - bin
+  - bower.json
   - bower_components
+  - node_modules
+  - package.json
+  - s3_website.yml
+  - webpack.config.js
 sass:
   style: compressed
 image:
