@@ -1,5 +1,5 @@
 name: We Enjoy
-url: //we-enjoy.us
+url: https://we-enjoy.us
 permalink: pretty
 paginate: 10
 paginate_path: "page/:num"
