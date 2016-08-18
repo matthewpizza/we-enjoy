@@ -1,4 +1,5 @@
 .DS_Store
+.env
 _posts/.DS_Store
 _site
 _twitter.json
