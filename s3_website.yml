@@ -8,6 +8,7 @@ exclude_from_upload:
   - .env
   - Gemfile
   - Gemfile.lock
+gzip: true
 
 # CloudFront
 cloudfront_distribution_id: E1V27UE6VEJJAA
