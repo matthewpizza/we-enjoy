@@ -14,10 +14,4 @@ gzip: true
 cloudfront_distribution_id: E1V27UE6VEJJAA
 cloudfront_wildcard_invalidation: true
 cloudfront_invalidate_root: true
-max_age:
-  "*.css": 2419200
-  "*.gif": 2419200
-  "*.jpg": 2419200
-  "*.js": 2419200
-  "*.png": 2419200
-  "*.svg": 2419200
+max_age: 604800
