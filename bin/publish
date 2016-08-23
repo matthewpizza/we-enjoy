@@ -1,4 +1,9 @@
 #!/bin/bash
 
+pushd `dirname $0` > /dev/null
+	DIR=`pwd`
+popd > /dev/null
+
 jekyll build
 s3_website push
+node $DIR/publish.js
