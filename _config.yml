@@ -15,7 +15,6 @@ exclude:
   - bower_components
   - node_modules
   - package.json
-  - s3_website.yml
   - webpack.config.js
 sass:
   style: compressed
