@@ -15,7 +15,13 @@
     </title>
 
     <link rel="icon" type="image/png" href="/favicon.png">
-    <link rel="stylesheet" href="{{ site.url }}/style.css">
+
+    <style type="text/css">
+      {% capture style %}
+        {% include style.scss %}
+      {% endcapture %}
+      {{ style | scssify }}
+    </style>
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed/">
   </head>
