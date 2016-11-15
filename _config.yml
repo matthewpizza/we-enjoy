@@ -22,3 +22,6 @@ image:
   width: 800
   height: 400
 gems: [jekyll-paginate]
+compress_html:
+  clippings: all
+  endings: all
