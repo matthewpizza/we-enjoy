@@ -13,4 +13,4 @@ source:
 * [Dodging garbage fires](https://soledadpenades.com/2017/08/10/dodging-garbage-fires/)
 * [The (R)evolution of Steve Jobs](http://musicologynow.ams-net.org/2017/08/the-revolution-of-steve-jobs.html)
 * [Researchers inject malware into DNA to hack a computer](https://thenextweb.com/security/2017/08/11/researchers-inject-malware-into-dna-to-hack-a-computer/)
-* [More than 60 women consider suing Google, claiming sexism and a pay gap | Technology](https://www.theguardian.com/technology/2017/aug/08/google-women-discrimination-class-action-lawsuit)
+* [More than 60 women consider suing Google, claiming sexism and a pay gap](https://www.theguardian.com/technology/2017/aug/08/google-women-discrimination-class-action-lawsuit)
