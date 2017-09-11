@@ -1,54 +1,47 @@
-var fs = require('fs'),
-	path = require('path'),
-	moment = require('moment'),
-	yaml = require('yaml-front-matter'),
-	config = {
-		twitter: require('../_twitter.json'),
-		tumblr: require('../_tumblr.json')
-	},
-	tumblrjs = require('tumblr.js'),
-	tumblr = tumblrjs.createClient(config.tumblr),
+var fs = require('fs');
+var path = require('path');
+var moment = require('moment');
+var yaml = require('yaml-front-matter');
+var tumblr = require('tumblr.js').createClient(require('../_tumblr.json'));
 
-	title = moment().format('dddd, MMMM D, YYYY'),
-	filename = moment().format('YYYY-MM-DD-dddd').toLowerCase() + '.md',
-	permalink = 'http://we-enjoy.us/' + moment().format('YYYY/MM/DD/dddd/').toLowerCase(),
+var filename = `${moment().format('YYYY-MM-DD-dddd').toLowerCase()}.md`;
+var projectRoot = path.resolve(__dirname, '..');
+var paths = {
+  images: path.normalize(`${projectRoot}/assets`),
+  posts : path.normalize(`${projectRoot}/_posts`)
+};
 
-	paths = {
-		images: path.normalize(__dirname + '/../assets'),
-		posts: path.normalize(__dirname + '/../_posts')
-	}
-;
+fs.exists(`${paths.posts}/${filename}`, function (exists) {
+  if (!exists) {
+    return console.error(`${filename} doesn’t exist.`);
+  }
 
-/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+  fs.readFile(`${paths.posts}/${filename}`, 'utf-8', function (err, data) {
+    if (err) {
+      return console.error(err);
+    }
 
-fs.exists(paths.posts + '/' + filename, function(exists) {
-	if (! exists) return console.error(filename + ' doesn’t exist.');
-
-	fs.readFile(paths.posts + '/' + filename, 'utf-8', function(err, data) {
-		if (err) return console.error(err);
-
-		publish_post( yaml.loadFront(data) );
-	});
+    publish(yaml.loadFront(data));
+  });
 });
 
-/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+function publish(post) {
+  fs.exists(`${paths.images}/${post.photo}`, function (exists) {
+    if (!exists) {
+      return console.error(`${post.photo} doesn’t exist.`);
+    }
 
-function publish_post( post ) {
-	var options = {
-		tumblr: {
-			caption: post.__content,
-			format: 'markdown',
-			tweet: 'off',
-			data: paths.images + '/' + post.photo,
-		}
-	};
+    tumblr.photo('we-enjoy', {
+      caption: post.__content,
+      format: 'markdown',
+      tweet: 'off',
+      data: `${paths.images}/${post.photo}`,
+    }, function (err, resp) {
+      if (err) {
+        return console.error(`(╯°□°）╯︵ ┻━┻  Tumblr \n ${err.message}`);
+      }
 
-	fs.exists(paths.images + '/' + post.photo, function(exists) {
-		if (! exists) return console.error(post.photo + ' doesn’t exist.');
-
-		tumblr.photo('we-enjoy', options.tumblr, function(err, resp) {
-			if (err) return console.log('(╯°□°）╯︵ ┻━┻  Tumblr \n' + err.message);
-			console.log('ヽ(^o^)ノ Tumblr');
-		});
-	});
+      console.log('ヽ(^o^)ノ Tumblr');
+    });
+  });
 }
