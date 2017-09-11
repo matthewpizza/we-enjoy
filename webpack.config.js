@@ -1,5 +1,4 @@
-const webpack       = require('webpack');
-const nodeExternals = require('webpack-node-externals');
+const webpack = require('webpack');
 
 module.exports = {
   entry: {
@@ -33,11 +32,6 @@ module.exports = {
       $     : 'jquery',
       jQuery: 'jquery'
     })
-  ],
-  // ignore node and node_modules in build
-  target: 'node',
-  externals: [
-    nodeExternals()
   ],
   // write sourcemaps to file
   devtool: '#source-map'
