@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 resize_image() {
 	local dimensions=$(sips -g pixelWidth -g pixelHeight $1)
