@@ -1,0 +1,17 @@
+#!/bin/bash
+
+pushd `dirname $0` > /dev/null
+	dir=$(dirname `pwd`)
+popd > /dev/null
+
+npm="$dir/node_modules"
+vendor="$dir/scripts/vendor"
+
+if [ ! -d "$vendor" ]; then
+	mkdir "$vendor"
+fi
+
+cp -a "$npm/jquery/dist/jquery.js" "$vendor"
+cp -a "$npm/jquery/dist/jquery.min.js" "$vendor"
+cp -a "$npm/jquery/dist/jquery.min.map" "$vendor"
+cp "$npm/jquery-pjax/jquery.pjax.js" "$vendor"

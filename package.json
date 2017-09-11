@@ -10,5 +10,12 @@
     "webpack": "^1.12.9",
     "webpack-node-externals": "^1.2.0",
     "yaml-front-matter": "~3.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "jquery-pjax": "^2.0.1"
+  },
+  "scripts": {
+    "postinstall": "./bin/post-install"
   }
 }
