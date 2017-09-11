@@ -5,18 +5,20 @@ echo "We Enjoy"
 
 # where are we
 pushd `dirname $0` > /dev/null
-	DIR=$(dirname `pwd`)
+	project_root=$(dirname `pwd`)
 popd > /dev/null
 
 # filename, today, example 2013-11-13-wednesday
-post_file="$DIR"/_posts/$(date +"%Y-%m-%d-%A").md
+post_file="$(date +"%Y-%m-%d-%A").md"
 
 # lowercase string, date function returns first upper
-post_file="$(tr [A-Z] [a-z] <<< "$post_file")"
+post_file=$(tr [A-Z] [a-z] <<< $post_file)
+
+# absolute paths
+post_file="$project_root/_posts/$post_file"
 
 # does the file already exist?
-if [ -f $post_file ]
-	then
+if [ -f $post_file ]; then
 	# yup
 	echo "$post_file exists"
 	subl $post_file
@@ -27,14 +29,14 @@ else
 	echo "created $post_file"
 fi
 
-title=$(date +"%A, %B %e, %Y")
-date=$(date +"%Y-%m-%d %T")
+post_title=$(date +"%A, %B %e, %Y")
+post_date=$(date +"%Y-%m-%d %T")
 
 cat <<EOF >> $post_file
 ---
 layout: photo
-title: $title
-date: $date
+title: $post_title
+date: $post_date
 
 photo:
 alt:
