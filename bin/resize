@@ -66,13 +66,6 @@ for file in $(git ls-files --others . | grep -E ".gif|.png|.jpg|.jpeg"); do
 		resize_image $file
 	fi
 
-	# if cli imageOptim is installed
-	# https://github.com/JamieMason/ImageOptim-CLI
-	# if [ "$(type -t imageOptim)" = "file" ]; then
-	# 	find ../$file | imageOptim --quit
-	# else
-	# 	/Applications/ImageOptim.app/Contents/MacOS/ImageOptim ../$file
-	# fi
 
 	# Async
 	open -a ImageOptim ../$file
