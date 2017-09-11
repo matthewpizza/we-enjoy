@@ -37,11 +37,11 @@ sleep 0.5
 
 # where are we
 pushd `dirname $0` > /dev/null
-	DIR=`pwd`
+	project_root=$(dirname `pwd`)
 popd > /dev/null
 
 # cd original assets directory
-cd "$DIR"/../assets/_
+cd "$project_root/assets/_"
 
 # Set $IFS variable for filenames with spaces
 # http://www.cyberciti.biz/tips/handling-filenames-with-spaces-in-bash.html
