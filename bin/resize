@@ -1,23 +1,35 @@
 #!/bin/bash
 
-# resize image
 resize_image() {
-	# resize to 2:1 (max: 800x400px) with image magick
-	# save to parent assets directory
-	size_w='%[fx: w ]'
-	size_h='%[fx: w/2 ]'
-	offset_x='%[fx: 0 ]'
-	offset_y='%[fx: (h/2)-(w/4) ]'
-	viewport="${size_w}x${size_h}+${offset_x}+${offset_y}"
+	local output_path=$(dirname `dirname $1`)
+	local filename=$(basename $1)
 
-	convert \
-		$1 \
-		-set option:distort:viewport "$viewport" \
-		-filter point \
-		-distort SRT 0 \
-		+repage \
-		-resize 800x400\> \
-		../$1
+	local dimensions=$(sips -g pixelWidth -g pixelHeight $1)
+	local width=$(echo -e $"$dimensions" | awk '/pixelWidth:/{print $2}')
+	local height=$(echo -e $"$dimensions" | awk '/pixelHeight:/{print $2}')
+	local ratio=$(echo $width $height | awk '{ print $2 / $1 }')
+
+	if [ $(echo "$ratio > 1" | bc) -eq 1 ]; then
+		# Pad portrait images to make landscape
+		# Has a black background to match the site background
+		# TODO: Maybe make transparent if PNG & GIF?
+		sips $file --resampleHeight 400 --out "$output_path/$filename"
+		sips "$output_path/$filename" --padToHeightWidth 400 800 --padColor 000000 --out "$output_path/$filename"
+		return
+	fi
+
+	local scale=$(echo $width | awk '{ print 800 / $1 }')
+	local height_scaled=$(echo $height $scale | awk '{ print $1 * $2 }')
+
+	if [ $(echo "$height_scaled < 400" | bc) -eq 1 ]; then
+		# Resize to height
+		sips $file --resampleHeight 400 --out "$output_path/$filename"
+	else
+		# Resize to width
+		sips $file --resampleWidth 800 --out "$output_path/$filename"
+	fi
+
+	sips "$output_path/$filename" --cropToHeightWidth 400 800 --out "$output_path/$filename"
 }
 
 echo "Resize new images"
