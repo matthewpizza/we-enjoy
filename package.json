@@ -4,8 +4,6 @@
   "author": "Matthew Spencer",
   "license": "Apache-2.0",
   "devDependencies": {
-    "dr-sax": "~1.0.10",
-    "imagemin": "^3.1.0",
     "moment": "~2.8.3",
     "source-map-loader": "^0.1.5",
     "tumblr.js": "0.0.4",
