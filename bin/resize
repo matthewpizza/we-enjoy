@@ -51,21 +51,9 @@ IFS=$(echo -en "\n\b")
 # find file modified today
 # --[cached|deleted|others|ignored|stage|unmerged|killed|modified]
 for file in $(git ls-files --others . | grep -E ".gif|.png|.jpg|.jpeg"); do
-	resized=false
 	echo $file
 
-	# if [[ $file == *.gif* ]] ; then
-	# 	if [ `identify "$file" | wc -l` -gt 1 ] ; then
-	# 		# copy to parent assets directory
-	# 		cp $file ../$file
-	# 		resized=true
-	# 	fi
-	# fi
-
-	if [ "$resized" = false ] ; then
-		resize_image $file
-	fi
-
+	resize_image $file &> /dev/null
 
 	# Async
 	open -a ImageOptim ../$file
