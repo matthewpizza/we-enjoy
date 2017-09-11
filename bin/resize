@@ -32,8 +32,13 @@ resize_image() {
 	sips "$output_path/$filename" --cropToHeightWidth 400 800 --out "$output_path/$filename"
 }
 
-echo "Resize new images"
-sleep 0.5
+echo -n "Resizing new images"
+
+for i in {1..3}
+do
+	sleep 0.3
+	echo -n '.'
+done
 
 # where are we
 pushd `dirname $0` > /dev/null
@@ -51,7 +56,8 @@ IFS=$(echo -en "\n\b")
 # find file modified today
 # --[cached|deleted|others|ignored|stage|unmerged|killed|modified]
 for file in $(git ls-files --others . | grep -E ".gif|.png|.jpg|.jpeg"); do
-	echo $file
+	sleep 0.5
+	echo -en "\rResizing $file"
 
 	resize_image $file &> /dev/null
 
@@ -62,4 +68,5 @@ done
 # restore
 IFS=$SAVEIFS
 
+echo -en "\r"
 cd ../..
