@@ -8,9 +8,9 @@
 
     <title>
       {% if page.title == "Home" %}
-        {{ site.name }}
+        We Enjoy
       {% else %}
-        {{ site.name }}: {{ page.title }}
+        We Enjoy: {{ page.title }}
       {% endif %}
     </title>
 
@@ -18,7 +18,7 @@
 
     <link rel="stylesheet" type="text/css" href="/css/style.css">
 
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed/">
+    <link rel="alternate" type="application/rss+xml" title="We Enjoy" href="/feed/">
   </head>
 
   <body>
@@ -26,13 +26,13 @@
     <div class="container content">
       <header class="masthead">
         <h1 class="masthead-title">
-          <a href="{{ site.url }}/">{{ site.name }}</a>
+          <a href="/">We Enjoy</a>
         </h1>
 
         <ul class="follow">
           <li><a href="https://twitter.com/we_enjoy/" target="_blank">Twitter</a></li>
           <li><a href="https://www.tumblr.com/follow/we-enjoy" target="_blank">Tumblr</a></li>
-          <li><a href="{{ site.url }}/feed/" target="_blank" data-exclude>RSS</a></li>
+          <li><a href="/feed/" target="_blank" data-exclude>RSS</a></li>
         </ul>
       </header>
 
@@ -41,7 +41,7 @@
       </main>
     </div>
 
-    <script async type="text/javascript" src="{{ site.url }}/scripts/app.js"></script>
+    <script async type="text/javascript" src="/scripts/app.js"></script>
 
   </body>
 </html>
