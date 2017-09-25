@@ -4,7 +4,7 @@ title: Wednesday, September 18, 2013
 date: 2013-09-18 08:00:00
 ---
 
-![Kathy Sierra]({{ site.url }}/assets/kathysierra.jpg)
+![Kathy Sierra](/assets/kathysierra.jpg)
 
 * [The end of kindness: weev and the cult of the angry young man](http://www.theverge.com/2013/9/12/4693710/the-end-of-kindness-weev-and-the-cult-of-the-angry-young-man)
 * [FBI Admits It Controlled Tor Servers Behind Mass Malware Attack](http://www.wired.com/threatlevel/2013/09/freedom-hosting-fbi/)

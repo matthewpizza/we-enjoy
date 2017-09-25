@@ -4,7 +4,7 @@ title: Wednesday, July 27, 2011
 date: 2011-07-27 09:00:00
 ---
 
-![Venus]({{ site.url }}/assets/venus-cat.jpg)
+![Venus](/assets/venus-cat.jpg)
 
 * [世界の名画にうちのニャンコを登場させてみた](http://digi-6.com/archives/51754179.html)
 * [Girls Go Geek… Again!](http://blog.fogcreek.com/girls-go-geek-again/)

@@ -4,7 +4,7 @@ title: Wednesday, September 25, 2013
 date: 2013-09-25 08:00:00
 ---
 
-![Kendrick Johnson]({{ site.url }}/assets/kendrick-johnson.jpg)
+![Kendrick Johnson](/assets/kendrick-johnson.jpg)
 
 * [The mysterious death of a 17-year-old football player from Valdosta, Georgia](http://www.grantland.com/story/_/id/9626413/the-mysterious-death-17-year-old-football-player-valdosta-georgia)
 * [Pussy Riot’s Nadezhda Tolokonnikova: Why I have gone on hunger strike](http://www.theguardian.com/music/2013/sep/23/pussy-riot-hunger-strike-nadezhda-tolokonnikova)

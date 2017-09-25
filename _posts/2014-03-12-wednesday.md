@@ -4,7 +4,7 @@ title: Wednesday, March 12, 2014
 date: 2014-03-12 17:45:56
 ---
 
-![Rust]({{ site.url }}/assets/rust.png)
+![Rust](/assets/rust.png)
 
 * [What the hell kind of ending was that, True Detective?](http://io9.com/what-the-hell-kind-of-ending-was-that-true-detective-1540629251)
 * [The Fundamentals: The frustratingly good Blake Griffin](http://nba.si.com/2014/03/11/blake-griffin-los-angeles-clippers/?eref=sihp)

@@ -4,7 +4,7 @@ title: Wednesday, February 12, 2014
 date: 2014-02-12 11:43:06
 ---
 
-![Moon]({{ site.url }}/assets/moon_where_are_we_now.jpg)
+![Moon](/assets/moon_where_are_we_now.jpg)
 
 * [Typeset In The Future — Moon](http://typesetinthefuture.com/moon/)
 * [Reading Design](http://alistapart.com/article/readingdesign)

@@ -4,7 +4,7 @@ title: Wednesday, December 4, 2013
 date: 2013-12-04 11:21:14
 ---
 
-![Kiribati]({{ site.url }}/assets/kiribati.gif)
+![Kiribati](/assets/kiribati.gif)
 
 * [Kiribati: Climate Change Destroys Pacific Island Nation](http://www.businessweek.com/articles/2013-11-21/kiribati-climate-change-destroys-pacific-island-nation)
 * [Government Spending by Patricia Lockwood](http://www.poetryfoundation.org/poetrymagazine/poem/246886)

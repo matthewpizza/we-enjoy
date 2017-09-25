@@ -4,7 +4,7 @@ title: Wednesday, August 3, 2011
 date: 2011-08-03 09:00:00
 ---
 
-![Marriage Equality]({{ site.url }}/assets/marriage-equality.jpg)
+![Marriage Equality](/assets/marriage-equality.jpg)
 
 * [It’s Official](http://nymag.com/fashion/lookbook/look-book-2011-8-8/)
 * [Married Lesbian Couple Rescued 40 Teens from Norway Massacre](http://bandofthebes.typepad.com/bandofthebes/2011/07/married-lesbian-couple-rescued-40-teens-from-norway-massacre.html)

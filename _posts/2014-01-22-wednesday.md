@@ -4,7 +4,7 @@ title: Wednesday, January 22, 2014
 date: 2014-01-22 09:41:22
 ---
 
-![Google Webfonts]({{ site.url }}/assets/google_fonts.png)
+![Google Webfonts](/assets/google_fonts.png)
 
 * [Google Webfonts, The Spy Inside?](http://fontfeed.com/archives/google-webfonts-the-spy-inside/)
 * [How Tumblr and GitHub could be the future of education](http://blogs.reuters.com/felix-salmon/2014/01/21/how-tumblr-and-github-could-be-the-future-of-education/)

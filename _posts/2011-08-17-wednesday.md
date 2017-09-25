@@ -4,7 +4,7 @@ title: Wednesday, August 17, 2011
 date: 2011-08-17 09:00:00
 ---
 
-![Apple Campus]({{ site.url }}/assets/apple-campus-scale.png)
+![Apple Campus](/assets/apple-campus-scale.png)
 
 * [Calculating the Size of Apple’s Spaceship HQ](http://www.macobserver.com/tmo/article/calculating_the_size_of_apples_spaceship_hq/)
 * [New Tools in Mozilla Firefox Help Developers Drive the Web Forward](http://blog.mozilla.com/blog/2011/08/16/new-tools-in-mozilla-firefox-help-developers-drive-the-web-forward/)

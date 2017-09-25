@@ -4,7 +4,7 @@ title: Wednesday, August 10, 2011
 date: 2011-08-10 09:00:00
 ---
 
-![NYC Pizza]({{ site.url }}/assets/nyc-pizza.jpg)
+![NYC Pizza](/assets/nyc-pizza.jpg)
 
 * [NYC Pizza Cultural Literacy](http://slice.seriouseats.com/archives/2011/08/nyc-pizza-cultural-literacy.html)
 * [Truly extraordinary speech by fearless West Indian woman in face of #Hackney rioters.](http://www.twitvid.com/4JTZH)

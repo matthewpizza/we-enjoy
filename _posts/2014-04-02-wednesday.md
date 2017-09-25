@@ -4,7 +4,7 @@ title: Wednesday, April 2, 2014
 date: 2014-04-02 08:15:39
 ---
 
-![Earth]({{ site.url }}/assets/earth.jpg)
+![Earth](/assets/earth.jpg)
 
 * [The guy who created the iPhone’s Earth image explains why he needed to fake it](http://qz.com/192700/the-guy-who-created-iphones-earth-image-explains-why-he-needed-to-fake-it/)
 * [Magic and Witches and Capitalism’s Destruction of the World](http://urbanhonking.com/regarding/2014/03/29/magic-and-witches-and-capitalisms-destruction-of-the-world/)

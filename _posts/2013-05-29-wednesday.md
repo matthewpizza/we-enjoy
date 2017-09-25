@@ -4,7 +4,7 @@ title: Wednesday, May 29, 2013
 date: 2013-05-29 08:00:00
 ---
 
-![James Turrell]({{ site.url }}/assets/james_turrell.jpg)
+![James Turrell](/assets/james_turrell.jpg)
 
 * [Mad Genius Buys Volcano, Transforms It Into Naked-Eye Observatory](http://www.wired.com/design/2013/05/james-turrell/)
 * [Marie Antoinette](http://urbanhonking.com/regarding/2013/05/28/marie-antoinette/)

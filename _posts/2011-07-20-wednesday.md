@@ -4,7 +4,7 @@ title: Wednesday, July 20, 2011
 date: 2011-07-20 09:00:00
 ---
 
-![Harry Potter Cocktails]({{ site.url }}/assets/harry-potter-cocktails.jpg)
+![Harry Potter Cocktails](/assets/harry-potter-cocktails.jpg)
 
 * [Even More Harry Potter Cocktails.](http://backyardbartender.blogspot.com/2011/07/even-more-harry-potter-cocktails.html)
 * [Mac OS X 10.7 Lion: the Ars Technica Review](http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars)

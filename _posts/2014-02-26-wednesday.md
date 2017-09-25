@@ -4,7 +4,7 @@ title: Wednesday, February 26, 2014
 date: 2014-02-26 12:58:42
 ---
 
-![]({{ site.url }}/assets/dog.jpg)
+![](/assets/dog.jpg)
 
 * [6 Dogs Who Know How To Have Fun](http://www.theonion.com/articles/6-dogs-who-know-how-to-have-fun,35356/)
 * [Is Amazon Bad for Books?](http://www.newyorker.com/reporting/2014/02/17/140217fa_fact_packer?currentPage=all)

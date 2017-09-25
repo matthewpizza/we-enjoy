@@ -4,7 +4,7 @@ title: Wednesday, November 6, 2013
 date: 2013-11-06 08:00:00
 ---
 
-![2013]({{ site.url }}/assets/election2013.png)
+![2013](/assets/election2013.png)
 
 * [Election 2013](http://project.wnyc.org/election2013/)
 * [How GitHub Uses GitHub to Build GitHub](http://zachholman.com/talk/how-github-uses-github-to-build-github/)

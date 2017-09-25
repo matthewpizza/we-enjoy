@@ -4,7 +4,7 @@ title: Wednesday, February 19, 2014
 date: 2014-02-19 14:26:54
 ---
 
-![Pussy Right]({{ site.url }}/assets/pussy-riot.jpg)
+![Pussy Right](/assets/pussy-riot.jpg)
 
 * [Pussy Riot attacked with whips by Cossack militia at Sochi Olympics](http://www.theguardian.com/music/2014/feb/19/pussy-riot-attacked-whips-cossack-milita-sochi-winter-olympics)
 * [Where You Don’t Feel Like a Visitor: Girls and Women and Bedrooms](http://the-toast.net/2014/01/27/girls-bedrooms-and-creativity/view-all/)

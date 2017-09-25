@@ -4,7 +4,7 @@ title: Wednesday, March 19, 2014
 date: 2014-03-19 13:30:16
 ---
 
-![Two Cans of Hairspray illustration]({{ site.url }}/assets/hairspray.png)
+![Two Cans of Hairspray illustration](/assets/hairspray.png)
 
 * [How Not To Kill Yourself With Household Items](http://digg.com/2014/ingestion-infographic)
 * [Linde Wasn’t Alone That Day](https://medium.com/p/75c68bb2f843)

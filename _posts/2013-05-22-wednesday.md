@@ -4,7 +4,7 @@ title: Wednesday, May 22, 2013
 date: 2013-05-22 08:00:00
 ---
 
-![Grandma Ida]({{ site.url }}/assets/grandma_ida.png)
+![Grandma Ida](/assets/grandma_ida.png)
 
 * [Don Draper and the thief of time](http://www.capitalnewyork.com/article/culture/2013/05/8530180/don-draper-and-thief-time)
 * [Mad Men, Week 7: Speed Kills](http://www.grantland.com/blog/hollywood-prospectus/post/_/id/77430/mad-men-week-7-speed-kills)

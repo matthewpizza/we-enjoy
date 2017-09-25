@@ -4,7 +4,7 @@ title: Wednesday, February 5, 2014
 date: 2014-02-05 14:35:27
 ---
 
-![NikeFuel]({{ site.url }}/assets/nikefuel.jpg)
+![NikeFuel](/assets/nikefuel.jpg)
 
 * [2013 Year in NikeFuel](http://fathom.info/latest/6796)
 * [Academics Launch Torrent Site to Share Papers and Datasets](http://torrentfreak.com/academics-launch-torrent-site-to-share-papers-and-datasets-140131/)

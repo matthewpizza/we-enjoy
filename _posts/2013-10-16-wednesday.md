@@ -4,7 +4,7 @@ title: Wednesday, October 16, 2013
 date: 2013-10-16 08:00:00
 ---
 
-![Healthcare dot gov]({{ site.url }}/assets/healthcaredotgov.jpg)
+![Healthcare dot gov](/assets/healthcaredotgov.jpg)
 
 * [Open-Source Everything: The Moral of the Healthcare.gov Debacle](http://www.businessweek.com/articles/2013-10-16/open-source-everything-the-moral-of-the-healthcare-dot-gov-debacle)
 * [House GOPers Pushing for Anti-Birth-Control Measure in Debt Ceiling Deal](http://www.motherjones.com/mojo/2013/10/house-debt-deal-birth-control-boehner-shutdown)

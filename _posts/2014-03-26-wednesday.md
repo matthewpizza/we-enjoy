@@ -4,7 +4,7 @@ title: Wednesday, March 26, 2014
 date: 2014-03-26 14:58:53
 ---
 
-![Petting Zoo App]({{ site.url }}/assets/petting-zoo.gif)
+![Petting Zoo App](/assets/petting-zoo.gif)
 
 * [The Story of Christoph Niemann’s Petting Zoo App](http://www.newyorker.com/online/blogs/culture/2013/03/christoph-niemann-petting-zoo-app.html)
 * [Oculus was the future of gaming. Now it’s the future of Facebook.](http://boingboing.net/2014/03/25/oculus-vr-could-have-changed-b.html)

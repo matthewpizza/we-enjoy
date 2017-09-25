@@ -4,7 +4,7 @@ title: Wednesday, August 21, 2013
 date: 2013-08-21 08:00:00
 ---
 
-![Earth]({{ site.url }}/assets/earthfromspace.jpg)
+![Earth](/assets/earthfromspace.jpg)
 
 * [Gorgeous Glimpses of Calamity](http://www.nytimes.com/2013/08/18/opinion/sunday/gorgeous-glimpses-of-calamity.html)
 * [where “nothing to hide” fails as logic](http://www.zephoria.org/thoughts/archives/2013/06/10/nothing-to-hide.html)

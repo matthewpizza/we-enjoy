@@ -4,7 +4,7 @@ title: Wednesday, March 5, 2014
 date: 2014-03-05 14:00:13
 ---
 
-![KCHUNG]({{ site.url }}/assets/kchung.jpg)
+![KCHUNG](/assets/kchung.jpg)
 
 * [KCHUNG Gives Los Angeles Artists a Voice on the Airwaves](http://www.nytimes.com/2014/03/02/arts/design/kchung-gives-los-angeles-artists-a-voice-on-the-airwaves.html)
 * [Cryptocat, Now on iPhone](https://blog.crypto.cat/2014/03/cryptocat-now-on-iphone/)

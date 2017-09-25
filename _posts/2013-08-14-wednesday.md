@@ -4,7 +4,7 @@ title: Wednesday, August 14, 2013
 date: 2013-08-14 08:00:00
 ---
 
-![Sad Bloomberg]({{ site.url }}/assets/sad-bloomberg.jpg)
+![Sad Bloomberg](/assets/sad-bloomberg.jpg)
 
 * [Judge Rejects New York’s Stop-and-Frisk Policy](http://www.nytimes.com/2013/08/13/nyregion/stop-and-frisk-practice-violated-rights-judge-rules.html?pagewanted=all)
 * [Callin’ Out Names: Kendrick Lamar’s ‘Control’ Verse and the Evolution of the Rap Name-drop](http://www.grantland.com/blog/hollywood-prospectus/post/_/id/84078/callin-out-names-kendrick-lamars-control-verse-and-the-evolution-of-the-rap-name-drop)
