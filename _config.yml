@@ -18,7 +18,4 @@ exclude:
   - webpack.config.js
 sass:
   style: compressed
-image:
-  width: 800
-  height: 400
 gems: [jekyll-paginate]

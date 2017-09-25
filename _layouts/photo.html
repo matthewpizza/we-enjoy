@@ -4,13 +4,7 @@ layout: default
 <article class="hentry">
   <h2 class="article-title">{{ page.title }}</h2>
 
-  {% if page.source %}
-    <a href="{{ page.source }}" target="_blank">
-      <img src="/assets/{{ page.photo }}" alt="{{ page.alt }}" width="{{ site.image.width }}" height="{{ site.image.height }}">
-    </a>
-  {% else %}
-    <img src="/assets/{{ page.photo }}" alt="{{ page.alt }}" width="{{ site.image.width }}" height="{{ site.image.height }}">
-  {% endif %}
+  <img src="/assets/{{ page.photo }}" alt="{{ page.alt }}">
 
   {{ page.content }}
 </article>
