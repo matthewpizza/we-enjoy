@@ -21,7 +21,7 @@ post_file="$project_root/_posts/$post_file"
 if [ -f $post_file ]; then
 	# yup
 	echo "$post_file exists"
-	subl $post_file
+	vim $post_file
 	exit
 else
 	# nope, create file
@@ -44,4 +44,4 @@ source:
 ---
 EOF
 
-subl $post_file
+vim $post_file
