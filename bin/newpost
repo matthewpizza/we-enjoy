@@ -44,4 +44,4 @@ source:
 ---
 EOF
 
-vim $post_file
+nvim $post_file
