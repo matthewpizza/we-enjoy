@@ -18,4 +18,4 @@ exclude:
   - webpack.config.js
 sass:
   style: compressed
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
