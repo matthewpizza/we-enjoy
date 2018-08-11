@@ -1,11 +1,14 @@
 #!/usr/bin/env bash
 
 pushd `dirname $0` > /dev/null
-	project_root=$(dirname `pwd`)
+    project_root=$(dirname `pwd`)
 popd > /dev/null
 
 cd $project_root
 
 jekyll build
 
-rsync -avz _site/ $HOME/Sites/we-enjoy/
+# checksum ignores timestamps, uses file md5 for diffing
+rsync \
+    --checksum --archive --verbose --compress \
+    _site/ $HOME/Sites/we-enjoy/
