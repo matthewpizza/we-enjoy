@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
-pushd `dirname $0` > /dev/null
-    project_root=$(dirname `pwd`)
-popd > /dev/null
-
-cd $project_root
-
-jekyll build
+# pushd `dirname $0` > /dev/null
+#     project_root=$(dirname `pwd`)
+# popd > /dev/null
+#
+# cd $project_root
+#
+# jekyll build
 
 # checksum ignores timestamps, uses file md5 for diffing
 rsync \
