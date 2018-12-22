@@ -10,5 +10,5 @@
 
 # checksum ignores timestamps, uses file md5 for diffing
 rsync \
-    --checksum --archive --verbose --compress \
+    --ignore-times --checksum --archive --verbose --compress \
     _site/ $HOME/Sites/we-enjoy/
