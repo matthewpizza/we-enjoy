@@ -8,8 +8,10 @@ pushd `dirname $0` > /dev/null
 	project_root=$(dirname `pwd`)
 popd > /dev/null
 
+what_day_is_today=${1:-+0d}
+
 # filename, today, example 2013-11-13-wednesday
-post_file="$(date +"%Y-%m-%d-%A").md"
+post_file="$(date -v`echo $what_day_is_today` +"%Y-%m-%d-%A").md"
 
 # lowercase string, date function returns first upper
 post_file=$(tr [A-Z] [a-z] <<< $post_file)
@@ -29,8 +31,8 @@ else
 	echo "created $post_file"
 fi
 
-post_title=$(date +"%A, %B %e, %Y")
-post_date=$(date +"%Y-%m-%d %T")
+post_title=$(date -v`echo $what_day_is_today` +"%A, %B %e, %Y")
+post_date=$(date -v`echo $what_day_is_today` +"%Y-%m-%d %T")
 
 cat <<EOF >> $post_file
 ---
