@@ -5,13 +5,14 @@ resize_image() {
 	local width=$(echo -e $"$dimensions" | awk '/pixelWidth:/{print $2}')
 	local height=$(echo -e $"$dimensions" | awk '/pixelHeight:/{print $2}')
 	local ratio=$(echo $width $height | awk '{ print $2 / $1 }')
+	local quality="--setProperty quality best"
 
 	if [ $(echo "$ratio > 1" | bc) -eq 1 ]; then
 		# Pad portrait images to make landscape
 		# Has a black background to match the site background
 		# TODO: Maybe make transparent if PNG & GIF?
-		sips $1 --resampleHeight 400 --out "../$1"
-		sips "../$1" --padToHeightWidth 400 800 --padColor 000000 --out "../$1"
+		sips $1 $quality --resampleHeight 400 --out "../$1"
+		sips "../$1" $quality --padToHeightWidth 400 800 --padColor 000000 --out "../$1"
 		return
 	fi
 
@@ -20,13 +21,13 @@ resize_image() {
 
 	if [ $(echo "$height_scaled < 400" | bc) -eq 1 ]; then
 		# Resize to height
-		sips $1 --resampleHeight 400 --out "../$1"
+		sips $1 $quality --resampleHeight 400 --out "../$1"
 	else
 		# Resize to width
-		sips $1 --resampleWidth 800 --out "../$1"
+		sips $1 $quality --resampleWidth 800 --out "../$1"
 	fi
 
-	sips "../$1" --cropToHeightWidth 400 800 --out "../$1"
+	sips "../$1" $quality --cropToHeightWidth 400 800 --out "../$1"
 }
 
 echo -n "Resizing new images"
