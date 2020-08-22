@@ -5,9 +5,9 @@ title: Home
 {% for page in paginator.posts %}
 
   <article class="hentry">
-    <h2 class="article-title"><a href="{{ page.url }}">{{ page.title }}</a></h2>
+    <h2 class="article-title"><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></h2>
 
-    <img src="/assets/{{ page.photo }}" alt="{{ page.alt }}">
+    <img src="{{ site.url }}/assets/{{ page.photo }}" alt="{{ page.alt }}">
 
     {{ page.content }}
   </article>
@@ -17,15 +17,15 @@ title: Home
 <div class="pagination">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
-    <a href="/" class="pagination-item previous">The Future</a>
+    <a href="{{ site.url }}/" class="pagination-item previous">The Future</a>
     {% else %}
-    <a href="/page/{{ paginator.previous_page }}/" class="pagination-item previous">The Future</a>
+    <a href="{{ site.url }}/page/{{ paginator.previous_page }}/" class="pagination-item previous">The Future</a>
     {% endif %}
   {% else %}
     <span class="pagination-item previous">The Future</span>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="/page/{{ paginator.next_page }}/" class="pagination-item next">The Past</a>
+    <a href="{{ site.url }}/page/{{ paginator.next_page }}/" class="pagination-item next">The Past</a>
   {% else %}
     <span class="pagination-item next">The Past</span>
   {% endif %}
